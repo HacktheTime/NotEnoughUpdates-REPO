@@ -1,17 +1,20 @@
 {
   "LAPIS_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "INK_SACK-4": 3-6
     }
   },
   "PIG_GENERATOR": {
+    "type": "FARMING",
     "requiredactions": 2,
     "drops": {
       "PORK": 1.0
     }
   },
   "FLOWER_GENERATOR": {
+    "type": "OTHER",
     "requiredactions": 2,
     "drops": {
       "RED_ROSE-2": 1.0,
@@ -31,30 +34,35 @@
     }
   },
   "COCOA_GENERATOR": {
+    "type": "FARMING",
     "requiredactions": 2,
     "drops": {
       "INK_SACK-3": 3.0
     }
   },
   "COBBLESTONE_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "COBBLESTONE": 1.0
     }
   },
   "ICE_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "ICE": 1.0
     }
   },
   "PUMPKIN_GENERATOR": {
+    "type": "FARMING",
     "requiredactions": 2,
     "drops": {
       "PUMPKIN": 1.0
     }
   },
   "VOIDLING_GENERATOR": {
+    "type": "COMBAT",
     "requiredactions": 2,
     "drops": {
       "OBSIDIAN": 1.0,
@@ -63,12 +71,14 @@
     }
   },
   "SUGAR_CANE_GENERATOR": {
+    "type": "FARMING",
     "requiredactions": 2,
     "drops": {
       "SUGAR_CANE": 3.0
     }
   },
   "FISHING_GENERATOR": {
+    "type": "FISHING",
     "requiredactions": 1,
     "drops": {
       "RAW_FISH": 0.5,
@@ -81,18 +91,21 @@
     }
   },
   "COAL_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "COAL": 1.0
     }
   },
   "SNOW_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "SNOW_BALL": 4.0
     }
   },
   "ZOMBIE_GENERATOR": {
+    "type": "COMBAT",
     "requiredactions": 2,
     "drops": {
       "ROTTEN_FLESH": 1.0,
@@ -102,60 +115,70 @@
     }
   },
   "MELON_GENERATOR": {
+    "type": "FARMING",
     "requiredactions": 2,
     "drops": {
       "MELON": 3-7
     }
   },
   "MITHRIL_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "MITHRIL_ORE": 2.0
     }
   },
   "ACACIA_GENERATOR": {
+    "type": "FORAGING",
     "requiredactions": 2,
     "drops": {
       "LOG_2": 4.0
     }
   },
   "MAGMA_CUBE_GENERATOR": {
+    "type": "COMBAT",
     "requiredactions": 2,
     "drops": {
       "MAGMA_CREAM": 1-3
     }
   },
   "GRAVEL_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "GRAVEL": 1.0
     }
   },
   "DARK_OAK_GENERATOR": {
+    "type": "FORAGING",
     "requiredactions": 2,
     "drops": {
       "LOG_2-1": 4.0
     }
   },
   "SLIME_GENERATOR": {
+    "type": "COMBAT",
     "requiredactions": 2,
     "drops": {
       "SLIME_BALL": 2
     }
   },
   "ENDER_STONE_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "ENDER_STONE": 1.0
     }
   },
   "NETHER_WARTS_GENERATOR": {
+    "type": "FARMING",
     "requiredactions": 2,
     "drops": {
       "NETHER_STALK": 2-4
     }
   },
   "GOLD_GENERATOR": {
+    "type": "MINING",
     "requiressmelting": true,
     "requiredactions": 2,
     "drops": {
@@ -163,24 +186,28 @@
     }
   },
   "BIRCH_GENERATOR": {
+    "type": "FORAGING",
     "requiredactions": 2,
     "drops": {
       "LOG-2": 4.0
     }
   },
   "CREEPER_GENERATOR": {
+    "type": "COMBAT",
     "requiredactions": 2,
     "drops": {
       "SULPHUR": 1.0
     }
   },
   "MYCELIUM_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "MYCEL": 1.0
     }
   },
   "CHICKEN_GENERATOR": {
+    "type": "FARMING",
     "requiredactions": 2,
     "drops": {
       "RAW_CHICKEN": 1.0,
@@ -188,6 +215,7 @@
     }
   },
   "COW_GENERATOR": {
+    "type": "FARMING",
     "requiredactions": 2,
     "drops": {
       "RAW_BEEF": 1.0,
@@ -195,18 +223,21 @@
     }
   },
   "OAK_GENERATOR": {
+    "type": "FORAGING",
     "requiredactions": 2,
     "drops": {
       "LOG": 4.0
     }
   },
   "HARD_STONE_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "HARD_STONE": 1.0
     }
   },
   "SPIDER_GENERATOR": {
+    "type": "COMBAT",
     "requiredactions": 2,
     "drops": {
       "STRING": 1.0,
@@ -214,6 +245,7 @@
     }
   },
   "TARANTULA_GENERATOR": {
+    "type": "COMBAT",
     "requiredactions": 2,
     "drops": {
       "STRING": 2-5,
@@ -222,12 +254,14 @@
     }
   },
   "RED_SAND_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "SAND-1": 1.0
     }
   },
   "SHEEP_GENERATOR": {
+    "type": "FARMING",
     "requiredactions": 2,
     "drops": {
       "MUTTON": 1.0,
@@ -235,18 +269,21 @@
     }
   },
   "SPRUCE_GENERATOR": {
+    "type": "FORAGING",
     "requiredactions": 2,
     "drops": {
       "LOG-1": 4
     }
   },
   "SKELETON_GENERATOR": {
+    "type": "COMBAT",
     "requiredactions": 2,
     "drops": {
       "BONE": 1.0
     }
   },
   "IRON_GENERATOR": {
+    "type": "MINING",
     "requiressmelting": true,
     "requiredactions": 2,
     "drops": {
@@ -254,6 +291,7 @@
     }
   },
   "MUSHROOM_GENERATOR": {
+    "type": "FARMING",
     "requiredactions": 2,
     "drops": {
       "RED_MUSHROOM": 0.5,
@@ -261,21 +299,25 @@
     }
   },
   "EMERALD_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "EMERALD": 1.0
     }
   },
   "INFERNO_GENERATOR": {
+    "type": "COMBAT",
     "extra": "Not supported. idk how to do it for this minion really."
   },
   "QUARTZ_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "QUARTZ": 1.0
     }
   },
   "WHEAT_GENERATOR": {
+    "type": "FARMING",
     "requiredactions": 2,
     "drops": {
       "WHEAT": 1.0,
@@ -283,42 +325,49 @@
     }
   },
   "CARROT_GENERATOR": {
+    "type": "FARMING",
     "requiredactions": 2,
     "drops": {
       "CARROT_ITEM": 2-4
     }
   },
   "REDSTONE_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "REDSTONE": 3-6
     }
   },
   "JUNGLE_GENERATOR": {
+    "type": "FORAGING",
     "requiredactions": 2,
     "drops": {
       "LOG-3": 4
     }
   },
   "ENDERMAN_GENERATOR": {
+    "type": "COMBAT",
     "requiredactions": 2,
     "drops": {
       "ENDER_PEARL": 1.0
     }
   },
   "SAND_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "SAND": 1.0
     }
   },
   "VAMPIRE_GENERATOR": {
+    "type": "COMBAT",
     "requiredactions": 2,
     "drops": {
       "HEMOVIBE": 1.0
     }
   },
   "REVENANT_GENERATOR": {
+    "type": "COMBAT",
     "requiredactions": 2,
     "drops": {
       "ROTTEN_FLESH": 2-5,
@@ -326,30 +375,35 @@
     }
   },
   "CLAY_GENERATOR": {
+    "type": "FISHING",
     "requiredactions": 2,
     "drops": {
       "CLAY_BALL": 4
     }
   },
   "GLOWSTONE_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "GLOWSTONE_DUST": 2-4
     }
   },
   "GHAST_GENERATOR": {
+    "type": "COMBAT",
     "requiredactions": 2,
     "drops": {
       "GHAST_TEAR": 1.0
     }
   },
   "BLAZE_GENERATOR": {
+    "type": "COMBAT",
     "requiredactions": 2,
     "drops": {
       "BLAZE_ROD": 1.0
     }
   },
   "CAVESPIDER_GENERATOR": {
+    "type": "COMBAT",
     "requiredactions": 2,
     "drops": {
       "SPIDER_EYE": 1.0,
@@ -357,24 +411,28 @@
     }
   },
   "CACTUS_GENERATOR": {
+    "type": "FARMING",
     "requiredactions": 2,
     "drops": {
       "CACTUS": 3.0
     }
   },
   "DIAMOND_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "DIAMOND": 1.0
     }
   },
   "POTATO_GENERATOR": {
+    "type": "FARMING",
     "requiredactions": 2,
     "drops": {
       "POTATO_ITEM": 2-4
     }
   },
   "RABBIT_GENERATOR": {
+    "type": "FARMING",
     "requiredactions": 2,
     "drops": {
       "RABBIT": 1.0,
@@ -383,6 +441,7 @@
     }
   },
   "OBSIDIAN_GENERATOR": {
+    "type": "MINING",
     "requiredactions": 2,
     "drops": {
       "OBSIDIAN": 1.0
