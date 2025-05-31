@@ -28,5 +28,7 @@
   "info": [
     "https://wiki.hypixel.net/Slimeball"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "compactstoo": "SLIME_BLOCK",
+  "supercompactstoo": "ENCHANTED_SLIME_BALL"
 }

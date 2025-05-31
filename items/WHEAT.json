@@ -27,5 +27,7 @@
   "info": [
     "https://wiki.hypixel.net/Wheat"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "compactstoo": "HAY_BLOCK",
+  "supercompactstoo": "ENCHANTED_WHEAT"
 }

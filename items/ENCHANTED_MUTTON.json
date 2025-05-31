@@ -28,5 +28,6 @@
     "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Mutton",
     "https://wiki.hypixel.net/Enchanted_Mutton"
   ],
-  "crafttext": "Requires: Mutton V"
+  "crafttext": "Requires: Mutton V",
+  "supercompactstoo": "ENCHANTED_COOKED_MUTTON"
 }

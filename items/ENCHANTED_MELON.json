@@ -28,5 +28,6 @@
     "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Melon",
     "https://wiki.hypixel.net/Enchanted_Melon"
   ],
-  "crafttext": "Requires: Melon IV"
+  "crafttext": "Requires: Melon IV",
+  "supercompactstoo": "ENCHANTED_MELON_BLOCK"
 }

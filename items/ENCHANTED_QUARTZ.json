@@ -27,5 +27,6 @@
     "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Quartz",
     "https://wiki.hypixel.net/Enchanted_Quartz"
   ],
-  "crafttext": "Requires: Nether Quartz IV"
+  "crafttext": "Requires: Nether Quartz IV",
+  "supercompactstoo": "ENCHANTED_QUARTZ_BLOCK"
 }

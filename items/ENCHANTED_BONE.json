@@ -27,5 +27,6 @@
     "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Bone",
     "https://wiki.hypixel.net/Enchanted_Bone"
   ],
-  "crafttext": "Requires: Bone V"
+  "crafttext": "Requires: Bone V",
+  "supercompactstoo": "ENCHANTED_BONE_BLOCK"
 }

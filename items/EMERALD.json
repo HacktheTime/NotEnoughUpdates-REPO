@@ -32,92 +32,92 @@
     {
       "type": "trade",
       "cost": "LOG-1",
-      "min": 65,
-      "max": 76,
+      "min": 65.0,
+      "max": 76.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "LOG-2",
-      "min": 65,
-      "max": 74,
+      "min": 65.0,
+      "max": 74.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "ENDER_PEARL",
-      "min": 26,
-      "max": 28,
+      "min": 26.0,
+      "max": 28.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "GLOWSTONE_DUST",
-      "min": 94,
-      "max": 111,
+      "min": 94.0,
+      "max": 111.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "COAL",
-      "min": 55,
-      "max": 61,
+      "min": 55.0,
+      "max": 61.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "GHAST_TEAR",
-      "min": 15,
-      "max": 16,
+      "min": 15.0,
+      "max": 16.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "INK_SACK-4",
-      "min": 174,
-      "max": 176,
+      "min": 174.0,
+      "max": 176.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "SUGAR_CANE",
-      "min": 108,
-      "max": 129,
+      "min": 108.0,
+      "max": 129.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "RABBIT",
-      "min": 32,
-      "max": 35,
+      "min": 32.0,
+      "max": 35.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "ENDER_STONE",
-      "min": 31,
-      "max": 34,
+      "min": 31.0,
+      "max": 34.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "WOOL",
-      "min": 33,
-      "max": 38,
+      "min": 33.0,
+      "max": 38.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "QUARTZ",
-      "min": 39,
-      "max": 41,
+      "min": 39.0,
+      "max": 41.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "LOG_2",
-      "min": 64,
-      "max": 70,
+      "min": 64.0,
+      "max": 70.0,
       "result": "EMERALD"
     },
     {
@@ -128,71 +128,71 @@
     {
       "type": "trade",
       "cost": "DIAMOND",
-      "min": 27,
-      "max": 31,
+      "min": 27.0,
+      "max": 31.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "REDSTONE",
-      "min": 123,
-      "max": 133,
+      "min": 123.0,
+      "max": 133.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "LOG-1",
-      "min": 68,
-      "max": 74,
+      "min": 68.0,
+      "max": 74.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "MAGMA_CREAM",
-      "min": 43,
-      "max": 47,
+      "min": 43.0,
+      "max": 47.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "INK_SACK-3",
-      "min": 85,
-      "max": 93,
+      "min": 85.0,
+      "max": 93.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "LOG_2-1",
-      "min": 65,
-      "max": 74,
+      "min": 65.0,
+      "max": 74.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "MUTTON",
-      "min": 216,
-      "max": 233,
+      "min": 216.0,
+      "max": 233.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "LOG-3",
-      "min": 68,
-      "max": 73,
+      "min": 68.0,
+      "max": 73.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "SLIME_BALL",
-      "min": 33,
-      "max": 63,
+      "min": 33.0,
+      "max": 63.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "BONE",
-      "min": 31,
-      "max": 35,
+      "min": 31.0,
+      "max": 35.0,
       "result": "EMERALD"
     },
     {
@@ -203,15 +203,15 @@
     {
       "type": "trade",
       "cost": "SULPHUR",
-      "min": 30,
-      "max": 32,
+      "min": 30.0,
+      "max": 32.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "FLINT",
-      "min": 31,
-      "max": 35,
+      "min": 31.0,
+      "max": 35.0,
       "result": "EMERALD"
     },
     {
@@ -222,17 +222,18 @@
     {
       "type": "trade",
       "cost": "POTATO",
-      "min": 130,
-      "max": 141,
+      "min": 130.0,
+      "max": 141.0,
       "result": "EMERALD"
     },
     {
       "type": "trade",
       "cost": "GOLD_INGOT",
-      "min": 39,
-      "max": 41,
+      "min": 39.0,
+      "max": 41.0,
       "result": "EMERALD"
     }
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "supercompactstoo": "ENCHANTED_EMERALD"
 }

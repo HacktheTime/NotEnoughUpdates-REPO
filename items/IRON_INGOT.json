@@ -28,5 +28,7 @@
   "info": [
     "https://wiki.hypixel.net/Iron_Ingot"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "compactstoo": "IRON_BLOCK",
+  "supercompactstoo": "ENCHANTED_IRON"
 }

@@ -27,5 +27,6 @@
     "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Raw_Fish",
     "https://wiki.hypixel.net/Enchanted_Raw_Fish"
   ],
-  "crafttext": "Requires: Raw Fish VI"
+  "crafttext": "Requires: Raw Fish VI",
+  "supercompactstoo": "ENCHANTED_COOKED_FISH"
 }

@@ -27,5 +27,6 @@
     "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Clay",
     "https://wiki.hypixel.net/Enchanted_Clay"
   ],
-  "crafttext": "Requires: Clay II"
+  "crafttext": "Requires: Clay II",
+  "supercompactstoo": "ENCHANTED_CLAY_BLOCK"
 }

@@ -30,7 +30,7 @@
       "C1": "",
       "C2": "GOLD_INGOT:32",
       "C3": "",
-      "count": 1
+      "count": 1.0
     },
     {
       "type": "crafting",
@@ -43,7 +43,8 @@
       "C1": "",
       "C2": "GOLD_BLOCK:32",
       "C3": "",
-      "count": 9
+      "count": 9.0
     }
-  ]
+  ],
+  "supercompactstoo": "ENCHANTED_GOLD_BLOCK"
 }
