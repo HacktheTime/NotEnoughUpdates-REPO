@@ -306,6 +306,7 @@
     }
   },
   "INFERNO_GENERATOR": {
+    "requiredactions": 2,
     "type": "COMBAT",
     "extra": "Not supported. idk how to do it for this minion really."
   },
