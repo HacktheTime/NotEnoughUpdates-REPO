@@ -480,6 +480,27 @@
       "x": 22,
       "y": 71,
       "z": -43
+    },
+    {
+      "warp": "wasteland",
+      "mode": "crimson_isle",
+      "x": -357,
+      "y": 110,
+      "z": -903
+    },
+    {
+      "warp": "scarleton",
+      "mode": "crimson_isle",
+      "x": -60,
+      "y": 107,
+      "z": -793
+    },
+    {
+      "warp": "dragontail",
+      "mode": "crimson_isle",
+      "x": -612,
+      "y": 99,
+      "z": -801
     }
   ]
 }
