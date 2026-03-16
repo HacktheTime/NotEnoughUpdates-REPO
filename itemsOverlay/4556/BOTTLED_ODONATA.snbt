@@ -1,9 +1,8 @@
 {
 	components: {
 		"minecraft:custom_data": {
-			id: "BIOHAZARD_LEGGINGS"
+			id: "BOTTLED_ODONATA"
 		},
-		"minecraft:dyed_color": 16755712,
 		"minecraft:tooltip_display": {
 			hidden_components: [
 				"minecraft:jukebox_playable",
@@ -19,12 +18,10 @@
 				"minecraft:block_entity_data",
 				"minecraft:dyed_color"
 			]
-		},
-		"minecraft:unbreakable": {
 		}
 	},
 	count: 1,
-	id: "minecraft:leather_leggings",
+	id: "minecraft:experience_bottle",
 	source: {
 		dataVersion: 4556,
 		modVersion: "Firmament 43.0.0+mc1.21.10"
