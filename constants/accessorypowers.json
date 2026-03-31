@@ -1,0 +1,395 @@
+{
+  "Fortuitous": {
+    "name": "Fortuitous",
+    "stone": null,
+    "base": {
+      "strength": 20,
+      "defence": 5,
+      "health": 10,
+      "crit_chance": 45,
+      "crit_damage": 20
+    },
+    "unique": {}
+  },
+  "Pretty": {
+    "name": "Pretty",
+    "stone": null,
+    "base": {
+      "strength": 20,
+      "defence": 5,
+      "speed": 5,
+      "health": 5,
+      "crit_chance": 15,
+      "crit_damage": 20,
+      "intelligence": 30
+    },
+    "unique": {}
+  },
+  "Protected": {
+    "name": "Protected",
+    "stone": null,
+    "base": {
+      "strength": 10,
+      "defence": 45,
+      "health": 35,
+      "crit_chance": 5,
+      "crit_damage": 5
+    },
+    "unique": {}
+  },
+  "Simple": {
+    "name": "Simple",
+    "stone": null,
+    "base": {
+      "strength": 15,
+      "defence": 15,
+      "speed": 10,
+      "health": 15,
+      "crit_chance": 15,
+      "crit_damage": 15,
+      "intelligence": 15
+    },
+    "unique": {}
+  },
+  "Warrior": {
+    "name": "Warrior",
+    "stone": null,
+    "base": {
+      "strength": 35,
+      "defence": 5,
+      "health": 10,
+      "crit_chance": 25,
+      "crit_damage": 25
+    },
+    "unique": {}
+  },
+  "Commando": {
+    "name": "Commando",
+    "stone": null,
+    "base": {
+      "strength": 35,
+      "defence": 10,
+      "health": 15,
+      "crit_chance": 5,
+      "crit_damage": 35
+    },
+    "unique": {}
+  },
+  "Disciplined": {
+    "name": "Disciplined",
+    "stone": null,
+    "base": {
+      "strength": 30,
+      "defence": 10,
+      "health": 15,
+      "crit_chance": 15,
+      "crit_damage": 30
+    },
+    "unique": {}
+  },
+  "Inspired": {
+    "name": "Inspired",
+    "stone": null,
+    "base": {
+      "strength": 20,
+      "defence": 5,
+      "health": 5,
+      "crit_chance": 10,
+      "crit_damage": 15,
+      "intelligence": 45
+    },
+    "unique": {}
+  },
+  "Ominous": {
+    "name": "Ominous",
+    "stone": null,
+    "base": {
+      "strength": 15,
+      "speed": 8,
+      "health": 15,
+      "crit_chance": 15,
+      "crit_damage": 15,
+      "intelligence": 12,
+      "ability_speed": 20
+    },
+    "unique": {}
+  },
+  "Prepared": {
+    "name": "Prepared",
+    "stone": null,
+    "base": {
+      "strength": 8,
+      "defence": 47,
+      "health": 37,
+      "crit_chance": 4,
+      "crit_damage": 4
+    },
+    "unique": {}
+  },
+  "Silky": {
+    "name": "Silky",
+    "stone": "LUXURIOUS_SPOOL",
+    "base": {
+      "speed": 5,
+      "crit_damage": 95
+    },
+    "unique": {
+      "ability_speed": 5
+    }
+  },
+  "Sweet": {
+    "name": "Sweet",
+    "stone": "ROCK_CANDY",
+    "base": {
+      "defence": 45,
+      "speed": 10,
+      "health": 45
+    },
+    "unique": {
+      "speed": 5
+    }
+  },
+  "Adept": {
+    "name": "Adept",
+    "stone": "END_STONE_SHULKER",
+    "base": {
+      "defence": 40,
+      "health": 50,
+      "intelligence": 10
+    },
+    "unique": {
+      "health": 100,
+      "defence": 50
+    }
+  },
+  "Bloody": {
+    "name": "Bloody",
+    "stone": "BEATING_HEART",
+    "base": {
+      "strength": 45,
+      "crit_damage": 45,
+      "intelligence": 10
+    },
+    "unique": {
+      "ability_speed": 10
+    }
+  },
+  "Forceful": {
+    "name": "Forceful",
+    "stone": "ACACIA_BIRDHOUSE",
+    "base": {
+      "strength": 75,
+      "health": 5,
+      "crit_damage": 20
+    },
+    "unique": {
+      "ferocity": 4
+    }
+  },
+  "Itchy": {
+    "name": "Itchy",
+    "stone": "FURBALL",
+    "base": {
+      "strength": 30,
+      "speed": 5,
+      "crit_damage": 35,
+      "ability_speed": 30
+    },
+    "unique": {
+      "strength": 15,
+      "crit_damage": 15
+    }
+  },
+  "Mythical": {
+    "name": "Mythical",
+    "stone": "OBSIDIAN_TABLET",
+    "base": {
+      "strength": 17,
+      "defence": 17,
+      "speed": 8,
+      "health": 17,
+      "crit_chance": 17,
+      "crit_damage": 17,
+      "intelligence": 17
+    },
+    "unique": {
+      "health": 150,
+      "strength": 40
+    }
+  },
+  "Shaded": {
+    "name": "Shaded",
+    "stone": "DARK_ORB",
+    "base": {
+      "strength": 20,
+      "speed": 5,
+      "crit_damage": 75
+    },
+    "unique": {
+      "ability_speed": 3,
+      "ferocity": 3
+    }
+  },
+  "Sighted": {
+    "name": "Sighted",
+    "stone": "ENDER_MONOCLE",
+    "base": {
+      "intelligence": 100
+    },
+    "unique": {
+      "ability_damage": 3
+    }
+  },
+  "Bizarre": {
+    "name": "Bizarre",
+    "stone": "ECCENTRIC_PAINTING",
+    "base": {
+      "strength": -10,
+      "crit_damage": -10,
+      "intelligence": 120
+    },
+    "unique": {
+      "ability_damage": 5
+    }
+  },
+  "Demonic": {
+    "name": "Demonic",
+    "stone": "HORNS_OF_TORMENT",
+    "base": {
+      "strength": 23,
+      "intelligence": 77
+    },
+    "unique": {
+      "crit_damage": 50
+    }
+  },
+  "Hurtful": {
+    "name": "Hurtful",
+    "stone": "MAGMA_URCHIN",
+    "base": {
+      "strength": 20,
+      "crit_damage": 80
+    },
+    "unique": {
+      "ability_speed": 15
+    }
+  },
+  "Pleasant": {
+    "name": "Pleasant",
+    "stone": "PRECIOUS_PEARL",
+    "base": {
+      "defence": 60,
+      "health": 40
+    },
+    "unique": {}
+  },
+  "Sanguisuge": {
+    "name": "Sanguisuge",
+    "stone": "DISPLACED_LEECH",
+    "base": {
+      "strength": 50,
+      "health": 15,
+      "crit_damage": 20,
+      "mend": 15
+    },
+    "unique": {
+      "intelligence": 100
+    }
+  },
+  "Frozen": {
+    "name": "Frozen",
+    "stone": "GLACITE_SHARD",
+    "base": {
+      "strength": 25,
+      "defence": 60,
+      "speed": -15,
+      "crit_damage": 50
+    },
+    "unique": {
+      "strength": 25,
+      "crit_damage": 25,
+      "true_defence": 10
+    }
+  },
+  "Healthy": {
+    "name": "Healthy",
+    "stone": "VITAMIN_DEATH",
+    "base": {
+      "health": 100
+    },
+    "unique": {
+      "health": 200
+    }
+  },
+  "Slender": {
+    "name": "Slender",
+    "stone": "HAZMAT_ENDERMAN",
+    "base": {
+      "strength": 25,
+      "defence": 25,
+      "speed": 5,
+      "health": 25,
+      "crit_damage": 25,
+      "intelligence": 25,
+      "ability_speed": 15
+    },
+    "unique": {
+      "crit_damage": 100,
+      "strength": 50
+    }
+  },
+  "Strong": {
+    "name": "Strong",
+    "stone": "MANDRAA",
+    "base": {
+      "strength": 50,
+      "crit_damage": 50
+    },
+    "unique": {
+      "strength": 25,
+      "crit_damage": 25
+    }
+  },
+  "Bubba": {
+    "name": "Bubba",
+    "stone": "BUBBA_BLISTER",
+    "base": {
+      "strength": 25,
+      "defence": -40,
+      "health": 15,
+      "crit_chance": 10,
+      "crit_damage": 45,
+      "ability_speed": 25,
+      "true_defence": 20
+    },
+    "unique": {
+      "combat_wisdom": 2
+    }
+  },
+  "Crumbly": {
+    "name": "Crumbly",
+    "stone": "CHOCOLATE_CHIP",
+    "base": {
+      "health": 30,
+      "intelligence": 15,
+      "true_defence": 10,
+      "mend": 30,
+      "vitality": 30
+    },
+    "unique": {
+      "speed": 25
+    }
+  },
+  "Scorching": {
+    "name": "Scorching",
+    "stone": "SCORCHED_BOOKS",
+    "base": {
+      "strength": 35,
+      "crit_damage": 40,
+      "ability_speed": 25
+    },
+    "unique": {
+      "ferocity": 7
+    }
+  }
+}
