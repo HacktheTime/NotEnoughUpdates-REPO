@@ -104,6 +104,21 @@
     "price": 150,
     "currency": "copper"
   },
+  "COPPER_TALISMAN": {
+    "display": "§fCopper Talisman",
+    "price": 5000,
+    "currency": "copper"
+  },
+  "COPPER_RING": {
+    "display": "§aCopper Ring",
+    "price": 25000,
+    "currency": "copper"
+  },
+  "COPPER_ARTIFACT": {
+    "display": "§9Copper Artifact",
+    "price": 750000,
+    "currency": "copper"
+  },
   "YELLOW_BANDANA": {
     "display": "§9Yellow Bandana",
     "price": 300,
@@ -207,6 +222,11 @@
   "THEORETICAL_HOE_WILD_ROSE_1": {
     "display": "§aWild Rose Hoe Mk. 1",
     "price": 250,
+    "currency": "copper"
+  },
+  "FARMING_TOOLKIT": {
+    "display": "§9Farming Toolkit",
+    "price": 500,
     "currency": "copper"
   },
   "TRADING_POST_BARN_SKIN": {

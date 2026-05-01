@@ -14,7 +14,7 @@
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
   "infoType": "WIKI_URL",
   "info": [
-    "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Brown_Mushroom_Block",
+    "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Brown_Mushroom_Block",
     "https://wiki.hypixel.net/Enchanted_Brown_Mushroom_Block"
   ],
   "recipes": [
@@ -28,20 +28,6 @@
       "C1": "",
       "C2": "ENCHANTED_BROWN_MUSHROOM:32",
       "C3": "",
-      "type": "crafting",
-      "count": 1,
-      "overrideOutputId": "ENCHANTED_HUGE_MUSHROOM_1"
-    },
-    {
-      "A1": "HUGE_MUSHROOM_1:64",
-      "A2": "HUGE_MUSHROOM_1:64",
-      "A3": "HUGE_MUSHROOM_1:64",
-      "B1": "HUGE_MUSHROOM_1:64",
-      "B2": "HUGE_MUSHROOM_1:64",
-      "B3": "HUGE_MUSHROOM_1:64",
-      "C1": "HUGE_MUSHROOM_1:64",
-      "C2": "HUGE_MUSHROOM_1:64",
-      "C3": "HUGE_MUSHROOM_1:64",
       "type": "crafting",
       "count": 1,
       "overrideOutputId": "ENCHANTED_HUGE_MUSHROOM_1"

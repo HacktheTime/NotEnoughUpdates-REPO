@@ -724,6 +724,18 @@
     "id": "ATTRIBUTE_SHARD_CATACOMBS_GRADUATE;1"
   },
   {
+    "stock": "SHARD_NESSIE",
+    "id": "ATTRIBUTE_SHARD_LOCH_HOOK;1"
+  },
+  {
+    "stock": "SHARD_LITTLEFOOT",
+    "id": "ATTRIBUTE_SHARD_FREEZING_SPREAD;1"
+  },
+  {
+    "stock": "SHARD_COCOALEECH",
+    "id": "ATTRIBUTE_SHARD_GROOVY_RADAR;1"
+  },
+  {
     "stock": "ENCHANTMENT_CORRUPTION_5",
     "id": "CORRUPTION;5"
   },
@@ -1248,12 +1260,24 @@
     "id": "DRAGON_HUNTER;5"
   },
   {
+    "stock": "ENCHANTMENT_DRAGON_HUNTER_6",
+    "id": "DRAGON_HUNTER;6"
+  },
+  {
     "stock": "ENCHANTMENT_DRAGON_HUNTER_2",
     "id": "DRAGON_HUNTER;2"
   },
   {
     "stock": "ENCHANTMENT_DRAGON_HUNTER_1",
     "id": "DRAGON_HUNTER;1"
+  },
+  {
+    "stock": "ENCHANTMENT_IMPALING_5",
+    "id": "IMPALING;5"
+  },
+  {
+    "stock": "ENCHANTMENT_IMPALING_4",
+    "id": "IMPALING;4"
   },
   {
     "stock": "ENCHANTMENT_IMPALING_3",
@@ -1286,6 +1310,46 @@
   {
     "stock": "ENCHANTMENT_TURBO_WHEAT_5",
     "id": "TURBO_WHEAT;5"
+  },
+  {
+    "stock": "ENCHANTMENT_TURBO_MOONFLOWER_1",
+    "id": "TURBO_MOONFLOWER;1"
+  },
+  {
+    "stock": "ENCHANTMENT_TURBO_MOONFLOWER_2",
+    "id": "TURBO_MOONFLOWER;2"
+  },
+  {
+    "stock": "ENCHANTMENT_TURBO_MOONFLOWER_3",
+    "id": "TURBO_MOONFLOWER;3"
+  },
+  {
+    "stock": "ENCHANTMENT_TURBO_MOONFLOWER_4",
+    "id": "TURBO_MOONFLOWER;4"
+  },
+  {
+    "stock": "ENCHANTMENT_TURBO_MOONFLOWER_5",
+    "id": "TURBO_MOONFLOWER;5"
+  },
+  {
+    "stock": "ENCHANTMENT_TURBO_SUNFLOWER_1",
+    "id": "TURBO_SUNFLOWER;1"
+  },
+  {
+    "stock": "ENCHANTMENT_TURBO_SUNFLOWER_2",
+    "id": "TURBO_SUNFLOWER;2"
+  },
+  {
+    "stock": "ENCHANTMENT_TURBO_SUNFLOWER_3",
+    "id": "TURBO_SUNFLOWER;3"
+  },
+  {
+    "stock": "ENCHANTMENT_TURBO_SUNFLOWER_4",
+    "id": "TURBO_SUNFLOWER;4"
+  },
+  {
+    "stock": "ENCHANTMENT_TURBO_SUNFLOWER_5",
+    "id": "TURBO_SUNFLOWER;5"
   },
   {
     "stock": "ENCHANTMENT_SUGAR_RUSH_3",
@@ -2780,6 +2844,26 @@
     "id": "ULTIMATE_WISE;5"
   },
   {
+    "stock": "ENCHANTMENT_ULTIMATE_CROP_FEVER_1",
+    "id": "ULTIMATE_CROP_FEVER;1"
+  },
+  {
+    "stock": "ENCHANTMENT_ULTIMATE_CROP_FEVER_2",
+    "id": "ULTIMATE_CROP_FEVER;2"
+  },
+  {
+    "stock": "ENCHANTMENT_ULTIMATE_CROP_FEVER_3",
+    "id": "ULTIMATE_CROP_FEVER;3"
+  },
+  {
+    "stock": "ENCHANTMENT_ULTIMATE_CROP_FEVER_4",
+    "id": "ULTIMATE_CROP_FEVER;4"
+  },
+  {
+    "stock": "ENCHANTMENT_ULTIMATE_CROP_FEVER_5",
+    "id": "ULTIMATE_CROP_FEVER;5"
+  },
+  {
     "stock": "ENCHANTMENT_CHAMPION_10",
     "id": "CHAMPION;10"
   },
@@ -3618,5 +3702,93 @@
   {
     "stock": "ENCHANTMENT_TURBO_POTATO_2",
     "id": "TURBO_POTATO;2"
+  },
+  {
+    "stock": "ENCHANTMENT_BUG_BLENDER_1",
+    "id": "BUG_BLENDER;1"
+  },
+  {
+    "stock": "ENCHANTMENT_BUG_BLENDER_2",
+    "id": "BUG_BLENDER;2"
+  },
+  {
+    "stock": "ENCHANTMENT_BUG_BLENDER_3",
+    "id": "BUG_BLENDER;3"
+  },
+  {
+    "stock": "ENCHANTMENT_BUG_BLENDER_4",
+    "id": "BUG_BLENDER;4"
+  },
+  {
+    "stock": "ENCHANTMENT_BUG_BLENDER_5",
+    "id": "BUG_BLENDER;5"
+  },
+  {
+    "stock": "ENCHANTMENT_FEAST_1",
+    "id": "FEAST;1"
+  },
+  {
+    "stock": "ENCHANTMENT_FEAST_2",
+    "id": "FEAST;2"
+  },
+  {
+    "stock": "ENCHANTMENT_FEAST_3",
+    "id": "FEAST;3"
+  },
+  {
+    "stock": "ENCHANTMENT_FEAST_4",
+    "id": "FEAST;4"
+  },
+  {
+    "stock": "ENCHANTMENT_FEAST_5",
+    "id": "FEAST;5"
+  },
+  {
+    "stock": "ENCHANTMENT_ULTIMATE_SUNSET_1",
+    "id": "ULTIMATE_SUNSET;1"
+  },
+  {
+    "stock": "ENCHANTMENT_ULTIMATE_SUNSET_2",
+    "id": "ULTIMATE_SUNSET;2"
+  },
+  {
+    "stock": "ENCHANTMENT_ULTIMATE_SUNSET_3",
+    "id": "ULTIMATE_SUNSET;3"
+  },
+  {
+    "stock": "ENCHANTMENT_ULTIMATE_SUNSET_4",
+    "id": "ULTIMATE_SUNSET;4"
+  },
+  {
+    "stock": "ENCHANTMENT_ULTIMATE_SUNSET_5",
+    "id": "ULTIMATE_SUNSET;5"
+  },
+  {
+    "stock": "ENCHANTMENT_TURBO_ROSE_1",
+    "id": "TURBO_ROSE;1"
+  },
+  {
+    "stock": "ENCHANTMENT_TURBO_ROSE_2",
+    "id": "TURBO_ROSE;2"
+  },
+  {
+    "stock": "ENCHANTMENT_TURBO_ROSE_3",
+    "id": "TURBO_ROSE;3"
+  },
+  {
+    "stock": "ENCHANTMENT_TURBO_ROSE_4",
+    "id": "TURBO_ROSE;4"
+  },
+  {
+    "stock": "ENCHANTMENT_TURBO_ROSE_5",
+    "id": "TURBO_ROSE;5"
+  },
+  {
+    "stock": "ENCHANTMENT_SCUBA_1",
+    "id": "SCUBA;1"
+  },
+  {
+    "stock": "ENCHANTMENT_SCUBA_2",
+    "id": "SCUBA;2"
   }
 ]

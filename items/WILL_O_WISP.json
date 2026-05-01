@@ -29,8 +29,10 @@
   "clickcommand": "",
   "crafttext": "Requires: HotM 10",
   "modver": "Firmament 43.0.0+mc1.21.10",
-  "infoType": "",
-  "info": [],
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Will-o%27-wisp"
+  ],
   "recipes": [
     {
       "type": "forge",
@@ -43,7 +45,7 @@
       ],
       "count": 1,
       "overrideOutputId": "WILL_O_WISP",
-      "duration": 43200
+      "duration": 86400
     }
   ]
 }

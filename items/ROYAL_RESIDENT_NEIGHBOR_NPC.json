@@ -14,5 +14,8 @@
   "z": 279,
   "island": "mining_3",
   "crafttext": "",
-  "infoType": ""
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Resident_Neighbor"
+  ]
 }

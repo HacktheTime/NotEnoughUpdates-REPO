@@ -248,7 +248,7 @@
       "displayName": "Flare",
       "rarity": "EPIC",
       "internalName": "ATTRIBUTE_SHARD_BLAZING;1",
-      "abilityName": "Blazing",
+      "abilityName": "Infernal Ruler",
       "alignment": "Combat",
       "family": [],
       "shardId": "E18"
@@ -1019,6 +1019,18 @@
       "shardId": "R8"
     },
     {
+      "bazaarName": "SHARD_COCOALEECH",
+      "displayName": "Cocoaleech",
+      "rarity": "LEGENDARY",
+      "internalName": "ATTRIBUTE_SHARD_GROOVY_RADAR;1",
+      "abilityName": "Groovy Radar",
+      "alignment": "Forest",
+      "family": [
+        "Bug"
+      ],
+      "shardId": "L46"
+    },
+    {
       "bazaarName": "SHARD_HIDEONGIFT",
       "displayName": "Hideongift",
       "rarity": "COMMON",
@@ -1724,7 +1736,7 @@
       "displayName": "Ent",
       "rarity": "UNCOMMON",
       "internalName": "ATTRIBUTE_SHARD_SPIRIT_AXE;1",
-      "abilityName": "Spirit Axe",
+      "abilityName": "Woodland Ruler",
       "alignment": "Water",
       "family": [],
       "shardId": "U29"
@@ -2154,6 +2166,24 @@
       "abilityName": "Big Game Hunter",
       "alignment": "Combat",
       "shardId": "E39"
+    },
+    {
+      "bazaarName": "SHARD_NESSIE",
+      "displayName": "Nessie",
+      "rarity": "LEGENDARY",
+      "internalName": "ATTRIBUTE_SHARD_LOCH_HOOK;1",
+      "abilityName": "Loch Hook",
+      "alignment": "Water",
+      "shardId": "L5"
+    },
+    {
+      "bazaarName": "SHARD_LITTLEFOOT",
+      "displayName": "Littlefoot",
+      "rarity": "EPIC",
+      "internalName": "ATTRIBUTE_SHARD_FREEZING_SPREAD;1",
+      "abilityName": "Freezing Spread",
+      "alignment": "Combat",
+      "shardId": "E45"
     }
   ]
 }
