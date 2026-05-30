@@ -19,7 +19,8 @@
     "kuudra": "Kuudra's Hollow",
     "mineshaft": "Glacite Mineshafts",
     "fishing_1": "Backwater Bayou",
-    "foraging_2": "Galatea"
+    "foraging_2": "Galatea",
+    "lotus_atoll": "Lotus Atoll"
   },
   "teleporters": [
     {
@@ -504,11 +505,14 @@
       "z": -42
     },
     {
-      "warp": "stew",
-      "mode": "hub",
-      "x": 45,
-      "y": 70,
-      "z": -116
+      "warp": "lotus",
+      "mode": "lotus_atoll",
+      "x": -16,
+      "y": 71,
+      "z": 1,
+      "aliases": [
+        "atoll"
+      ]
     }
   ]
 }
