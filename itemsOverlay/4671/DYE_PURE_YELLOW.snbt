@@ -1,9 +1,7 @@
 {
 	components: {
 		"minecraft:custom_data": {
-			id: "DYE_PURE_YELLOW",
-			raffle_win: "year_400_small_39",
-			raffle_year: 400
+			id: "DYE_PURE_YELLOW"
 		},
 		"minecraft:profile": {
 			id: [I;
@@ -35,12 +33,13 @@
 				"minecraft:block_entity_data",
 				"minecraft:dyed_color"
 			]
-		}
+		},
+		"minecraft:tooltip_style": "hypixel_skyblock:legendary"
 	},
 	count: 1,
 	id: "minecraft:player_head",
 	source: {
 		dataVersion: 4671,
-		modVersion: "Firmament 44.2.0-dev+mc1.21.11+g610fbd78"
+		modVersion: "Firmament 44.2.0-dev+mc1.21.11+g36d974dd"
 	}
 }

@@ -1,20 +1,20 @@
 {
   "itemid": "minecraft:wooden_axe",
   "displayname": "§9Fig Hew",
-  "nbttag": "{ExtraAttributes:{id:\"FIG_AXE\"},HideFlags:254,ItemModel:\"minecraft:wooden_axe\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+30.6\",1:\"§7Strength: §c+10.2\",2:\"§7Sweep: §2+7.14\",3:\"§7Foraging Fortune: §6+20.4\",4:\"§7Gemstones: §8[☘]\",5:\"\",6:\"§6Ability: Frenzy \",7:\"§7Gains §21∮ Sweep §7every §a2,000 Logs\",8:\"§7cut on §2Galatea§7. §8(max 20)\",9:\"§7Current Bonus: §2+0∮\",10:\"§7Next Upgrade: §2+1∮ §8(§a0§7/§c2,000§8)\",11:\"\",12:\"§7Logs Cut: §b0\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires §aForaging Skill 12§c.\",16:\"§9§lRARE AXE\"],Name:\"§9Fig Hew\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FIG_AXE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/axes/fig_hew\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+30\",1:\"§7Strength: §c+10\",2:\"§7Sweep: §2+7\",3:\"§7Foraging Fortune: §6+20\",4:\"§7Gemstones: §8[]\",5:\"\",6:\"§6Ability: Frenzy \",7:\"§7Gains §21 Sweep §7every §a2,000 Logs\",8:\"§7cut on §2Galatea§7. §8(max 20)\",9:\"§7Current Bonus: §2+0\",10:\"§7Next Upgrade: §2+1 §8(§a0§7/§c2,000§8)\",11:\"\",12:\"§7Logs Cut: §b0\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires §aForaging Skill 12§c.\",16:\"§9§lRARE AXE\"],Name:\"§9Fig Hew\"}}",
   "damage": 0,
   "lore": [
-    "§7Damage: §c+30.6",
-    "§7Strength: §c+10.2",
-    "§7Sweep: §2+7.14",
-    "§7Foraging Fortune: §6+20.4",
-    "§7Gemstones: §8[☘]",
+    "§7Damage: §c+30",
+    "§7Strength: §c+10",
+    "§7Sweep: §2+7",
+    "§7Foraging Fortune: §6+20",
+    "§7Gemstones: §8[]",
     "",
     "§6Ability: Frenzy ",
-    "§7Gains §21∮ Sweep §7every §a2,000 Logs",
+    "§7Gains §21 Sweep §7every §a2,000 Logs",
     "§7cut on §2Galatea§7. §8(max 20)",
-    "§7Current Bonus: §2+0∮",
-    "§7Next Upgrade: §2+1∮ §8(§a0§7/§c2,000§8)",
+    "§7Current Bonus: §2+0",
+    "§7Next Upgrade: §2+1 §8(§a0§7/§c2,000§8)",
     "",
     "§7Logs Cut: §b0",
     "",
@@ -25,11 +25,10 @@
   "internalname": "FIG_AXE",
   "clickcommand": "",
   "crafttext": "",
-  "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+  "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",
   "info": [
-    "https://hypixelskyblock.minecraft.wiki/w/Fig_Hew",
-    "https://wiki.hypixel.net/Fig_Hew"
+    "https://hypixelskyblock.minecraft.wiki/w/Fig_Hew"
   ],
   "recipes": [
     {

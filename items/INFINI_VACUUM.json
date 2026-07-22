@@ -1,37 +1,35 @@
 {
-  "itemid": "minecraft:chest_minecart",
+  "itemid": "minecraft:paper",
   "displayname": "§5InfiniVacuum™",
-  "nbttag": "{ExtraAttributes:{id:\"INFINI_VACUUM\"},HideFlags:254,ItemModel:\"minecraft:chest_minecart\",display:{Lore:[0:\"§7Damage: §c+200\",1:\"§7Farming Fortune: §6+20\",2:\"§7Gemstones: §8[§7☘§8]\",3:\"\",4:\"§7Can be used to damage §2ൠ Pests§7.\",5:\"\",6:\"§6Ability: Vacuum  §e§lHOLD RIGHT CLICK\",7:\"§7Deals §c200 ❁ Damage §7per second to\",8:\"§7nearby §2ൠ Pests§7.\",9:\"\",10:\"§6Ability: Pest Tracker  §e§lLEFT CLICK\",11:\"§7Leads you in the direction of the\",12:\"§7nearest §2ൠ Pest§7.\",13:\"§8Cooldown: §a1s\",14:\"\",15:\"§7Vacuum Bag: §20 Pests\",16:\"\",17:\"§8This item can be reforged!\",18:\"§4❣ §cRequires §aGarden Level 5§c.\",19:\"§5§lEPIC VACUUM\"],Name:\"§5InfiniVacuum™\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"INFINI_VACUUM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/vacuum/infini_vacuum\",display:{Lore:[0:\"§7Damage: §c+200\",1:\"§7Farming Fortune: §6+20\",2:\"§7Gemstones: §8[§7§8]\",3:\"\",4:\"§7Can be used to damage §2 Pests§7.\",5:\"\",6:\"§6Ability: Vacuum  §e§lHOLD RIGHT CLICK\",7:\"§7Deals §c200  Damage §7per second to\",8:\"§7nearby §2 Pests§7.\",9:\"\",10:\"§6Ability: Pest Tracker  §e§lLEFT CLICK\",11:\"§7Leads you in the direction of the\",12:\"§7nearest §2 Pest§7.\",13:\"§8Cooldown: §a1s\",14:\"\",15:\"§7Vacuum Bag: §20 Pests\",16:\"\",17:\"§4❣ §cRequires §aGarden Level 5§c.\",18:\"§5§lEPIC VACUUM\"],Name:\"§5InfiniVacuum™\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+200",
     "§7Farming Fortune: §6+20",
-    "§7Gemstones: §8[§7☘§8]",
+    "§7Gemstones: §8[§7§8]",
     "",
-    "§7Can be used to damage §2ൠ Pests§7.",
+    "§7Can be used to damage §2 Pests§7.",
     "",
     "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK",
-    "§7Deals §c200 ❁ Damage §7per second to",
-    "§7nearby §2ൠ Pests§7.",
+    "§7Deals §c200  Damage §7per second to",
+    "§7nearby §2 Pests§7.",
     "",
     "§6Ability: Pest Tracker  §e§lLEFT CLICK",
     "§7Leads you in the direction of the",
-    "§7nearest §2ൠ Pest§7.",
+    "§7nearest §2 Pest§7.",
     "§8Cooldown: §a1s",
     "",
     "§7Vacuum Bag: §20 Pests",
     "",
-    "§8This item can be reforged!",
     "§4❣ §cRequires §aGarden Level 5§c.",
     "§5§lEPIC VACUUM"
   ],
   "internalname": "INFINI_VACUUM",
   "clickcommand": "",
   "crafttext": "",
-  "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+  "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",
   "info": [
-    "https://hypixelskyblock.minecraft.wiki/w/InfiniVacuum™",
-    "https://wiki.hypixel.net/InfiniVacuum™"
+    "https://hypixelskyblock.minecraft.wiki/w/InfiniVacuum™"
   ]
 }

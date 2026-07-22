@@ -1,22 +1,18 @@
 {
   "itemid": "minecraft:golden_sword",
   "displayname": "§6Florid Zombie Sword",
-  "nbttag": "{ExtraAttributes:{id:\"FLORID_ZOMBIE_SWORD\"},HideFlags:254,ItemModel:\"minecraft:golden_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+150\",1:\"§7Strength: §c+80\",2:\"§7Intelligence: §b+100\",3:\"§7Gemstones: §8[§7✎§8] [❤]\",4:\"\",5:\"§6Ability: Instant Heal  §e§lRIGHT CLICK\",6:\"§7Heal for §c168 §7+ §c5%❤ §7and heal players within §a8\",7:\"§7blocks for §c56❤§7.\",8:\"§8Mana Cost: §370\",9:\"§8Charges: §e5 §8/ §a15s\",10:\"\",11:\"§7Gain §a+2 §7extra max charges when you\",12:\"§7play as a §aHealer §7in Dungeons.\",13:\"\",14:\"§8This item can be reforged!\",15:\"§6§lLEGENDARY SWORD\"],Name:\"§6Florid Zombie Sword\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FLORID_ZOMBIE_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/florid_zombie_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+150\",1:\"§7Strength: §c+80\",2:\"§7Intelligence: §b+100\",3:\"§7Gemstones: §8[§7§8] []\",4:\"\",5:\"§6Ability: Instant Heal  §e§lRIGHT CLICK\",6:\"§7Heal for §c500❤ §7and heal players within §a8\",7:\"§7blocks for §c100❤§7.\",8:\"§8Vitality Cost: §425\",9:\"\",10:\"§8This item can be reforged!\",11:\"§6§lLEGENDARY SWORD\"],Name:\"§6Florid Zombie Sword\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+150",
     "§7Strength: §c+80",
     "§7Intelligence: §b+100",
-    "§7Gemstones: §8[§7✎§8] [❤]",
+    "§7Gemstones: §8[§7§8] []",
     "",
     "§6Ability: Instant Heal  §e§lRIGHT CLICK",
-    "§7Heal for §c168 §7+ §c5%❤ §7and heal players within §a8",
-    "§7blocks for §c56❤§7.",
-    "§8Mana Cost: §370",
-    "§8Charges: §e5 §8/ §a15s",
-    "",
-    "§7Gain §a+2 §7extra max charges when you",
-    "§7play as a §aHealer §7in Dungeons.",
+    "§7Heal for §c500❤ §7and heal players within §a8",
+    "§7blocks for §c100❤§7.",
+    "§8Vitality Cost: §425",
     "",
     "§8This item can be reforged!",
     "§6§lLEGENDARY SWORD"
@@ -24,11 +20,10 @@
   "internalname": "FLORID_ZOMBIE_SWORD",
   "clickcommand": "viewrecipe",
   "crafttext": "",
-  "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+  "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",
   "info": [
-    "https://hypixelskyblock.minecraft.wiki/w/Florid_Zombie_Sword",
-    "https://wiki.hypixel.net/Florid_Zombie_Sword"
+    "https://hypixelskyblock.minecraft.wiki/w/Florid_Zombie_Sword"
   ],
   "recipe": {
     "A1": "",

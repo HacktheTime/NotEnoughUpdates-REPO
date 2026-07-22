@@ -1,21 +1,22 @@
 {
   "itemid": "minecraft:leather_leggings",
   "displayname": "§aBronze Hunter Leggings",
-  "nbttag": "{ExtraAttributes:{id:\"BRONZE_HUNTER_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+75\",1:\"\",2:\"§6Full Set Bonus: Peace Treaty §7(0/4)\",3:\"§7Gain immunity to Sea Creatures but\",4:\"§7they are immune to you and you can\",5:\"§7no longer catch them.\",6:\"\",7:\"§8Tiered Bonus: Odger's Blessing (0/4)\",8:\"§7Grants §6+0♔ Trophy Chance§7.\",9:\" \",10:\"§6Full Set Bonus: Star Fisher §7(0/4)\",11:\"§7Grants §b+0.2☂ Fishing Speed§7 per §6✪\",12:\"§6Upgrade Star §7on your armor.\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires Novice Trophy Fisher.\",16:\"§8§l* §8Soulbound §8§l*\",17:\"§a§lUNCOMMON LEGGINGS\"],Name:\"§aBronze Hunter Leggings\",color:10511680}}",
+  "nbttag": "{ExtraAttributes:{id:\"BRONZE_HUNTER_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+75\",1:\"§7Gemstones: §8[§7⚔§8]\",2:\"\",3:\"§8Tiered Bonus: Peace Treaty (0/2)\",4:\"§7Gain immunity to §3Sea Creatures §7but\",5:\"§7they are immune to you and you can\",6:\"§7no longer catch them.\",7:\"\",8:\"§8Tiered Bonus: Odger's Blessing (0/4)\",9:\"§7Grants §6+0 Trophy Chance§7.\",10:\"\",11:\"§6Full Set Bonus: Star Fisher §7(0/4)\",12:\"§7Grants §b+0.2 Fishing Speed§7 per §6✪\",13:\"§6Upgrade Star §7on your armor.\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4❣ §cRequires Novice Trophy Fisher.\",17:\"§8§l* §8Soulbound §8§l*\",18:\"§a§lUNCOMMON LEGGINGS\"],Name:\"§aBronze Hunter Leggings\"}}",
   "damage": 0,
   "lore": [
     "§7Health: §c+75",
+    "§7Gemstones: §8[§7⚔§8]",
     "",
-    "§6Full Set Bonus: Peace Treaty §7(0/4)",
-    "§7Gain immunity to Sea Creatures but",
+    "§8Tiered Bonus: Peace Treaty (0/2)",
+    "§7Gain immunity to §3Sea Creatures §7but",
     "§7they are immune to you and you can",
     "§7no longer catch them.",
     "",
     "§8Tiered Bonus: Odger's Blessing (0/4)",
-    "§7Grants §6+0♔ Trophy Chance§7.",
-    " ",
+    "§7Grants §6+0 Trophy Chance§7.",
+    "",
     "§6Full Set Bonus: Star Fisher §7(0/4)",
-    "§7Grants §b+0.2☂ Fishing Speed§7 per §6✪",
+    "§7Grants §b+0.2 Fishing Speed§7 per §6✪",
     "§6Upgrade Star §7on your armor.",
     "",
     "§8This item can be reforged!",
@@ -26,10 +27,9 @@
   "internalname": "BRONZE_HUNTER_LEGGINGS",
   "clickcommand": "",
   "crafttext": "",
-  "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+  "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",
   "info": [
-    "https://hypixelskyblock.minecraft.wiki/w/Bronze_Hunter_Leggings",
-    "https://wiki.hypixel.net/Bronze_Hunter_Leggings"
+    "https://hypixelskyblock.minecraft.wiki/w/Bronze_Hunter_Leggings"
   ]
 }

@@ -587,7 +587,7 @@
         "bracket": 2
       },
       {
-        "name": "§aGravel Skeleton",
+        "name": "§aFlint Skeleton",
         "skullOwner": "53924f1a-87e6-4709-8e53-f1c7d13dc239",
         "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY1NTYzMTgzNjcwNCwKICAicHJvZmlsZUlkIiA6ICI1MzkyNGYxYTg3ZTY0NzA5OGU1M2YxYzdkMTNkYzIzOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaHJvd3BvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg4ZWI2OGE0ZDM4ZTlmNDQ2YjhlOTkyNzVmMTYwMzAyZjM2NmVmMTAyMTZhYmY5NDg0ODdlNTgyNTEyYmQwZjMiCiAgICB9CiAgfQp9=",
         "cap": 4000,
@@ -1673,6 +1673,8 @@
         "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1NTY0NDM0MTE4NywKICAicHJvZmlsZUlkIiA6ICI2MTU1NTMyOTY2OWM0ZDA5YmFiOGJlNDNkYWUwYTRjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaTAxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NzBlZTkxZWUxYTAwNTkzMzFkN2VjOTI0YTA5Yjg2NDgwYmQ5NmRhZTE5MTRmZjg1YzJjZDNiNzEzNGFiNjgzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
         "cap": 1000,
         "mobs": [
+          "harpy_85",
+          "harpy_110",
           "harpy_175",
           "harpy_325"
         ],
@@ -2240,8 +2242,8 @@
         },
         {
           "name": "§aFire Eel",
-          "skullOwner": "d44cbcee-3042-3f42-83f1-d6929eb0f987",
-          "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzgzMTA5NzU4NywKICAicHJvZmlsZUlkIiA6ICJmMjU5MTFiOTZkZDU0MjJhYTcwNzNiOTBmOGI4MTUyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmYXJsb3VjaDEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNjM3MDRhN2ZjN2Q0MzdmN2I5MjNlMjNlOWEwOGFlM2JiZTI4OTM3ZGY0ZGFmYTllM2U4NzI1YjJjZTRhZmE1IgogICAgfQogIH0KfQ=",
+          "skullOwner": "243dc8ae-3437-3b51-a079-01d8f15f29c5",
+          "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzgzMTA5NzU4NywKICAicHJvZmlsZUlkIiA6ICJmMjU5MTFiOTZkZDU0MjJhYTcwNzNiOTBmOGI4MTUyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmYXJsb3VjaDEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNjM3MDRhN2ZjN2Q0MzdmN2I5MjNlMjNlOWEwOGFlM2JiZTI4OTM3ZGY0ZGFmYTllM2U4NzI1YjJjZTRhZmE1IgogICAgfQogIH0KfQ==",
           "cap": 1000,
           "mobs": [
             "fire_eel_240"

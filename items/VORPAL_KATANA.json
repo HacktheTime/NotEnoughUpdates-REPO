@@ -1,14 +1,14 @@
 {
-  "itemid": "minecraft:diamond_sword",
+  "itemid": "minecraft:blaze_rod",
   "displayname": "§5Vorpal Katana",
-  "nbttag": "{ExtraAttributes:{id:\"VORPAL_KATANA\"},HideFlags:254,ItemModel:\"minecraft:diamond_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+190\",1:\"§7Strength: §c+80\",2:\"§7Crit Damage: §9+30%\",3:\"§7Intelligence: §b+200\",4:\"§7Gemstones: §8[❁] [✎]\",5:\"\",6:\"§7Deal §a+250% §7damage to Endermen.\",7:\"§7Receive §a9% §7less damage from\",8:\"§7Endermen when held.\",9:\"§7Gain §3+30☯ Combat Wisdom§7 against\",10:\"§7Endermen.\",11:\"\",12:\"§6Ability: Soulcry  §e§lRIGHT CLICK\",13:\"§7Gain §c+300⫽ Ferocity §7against Endermen for §a4s\",14:\"§8Soulflow Cost: §31\",15:\"§8Mana Cost: §3200\",16:\"§8Cooldown: §a4s\",17:\"\",18:\"§8This item can be reforged!\",19:\"§4☠ §cRequires §5Enderman Slayer 5§c.\",20:\"§5§lEPIC SWORD\"],Name:\"§5Vorpal Katana\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"VORPAL_KATANA\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/enderman/weapons/katanas/vorpal_katana\",display:{Lore:[0:\"§7Damage: §c+190\",1:\"§7Strength: §c+80\",2:\"§7Crit Damage: §9+30%\",3:\"§7Intelligence: §b+200\",4:\"§7Gemstones: §8[] []\",5:\"\",6:\"§7Deal §a+250% §7damage to Endermen.\",7:\"§7Receive §a9% §7less damage from\",8:\"§7Endermen when held.\",9:\"§7Gain §3+30☯ Combat Wisdom§7 against\",10:\"§7Endermen.\",11:\"\",12:\"§6Ability: Soulcry  §e§lRIGHT CLICK\",13:\"§7Gain §c+300 Ferocity §7against Endermen for §a4s\",14:\"§8Soulflow Cost: §31\",15:\"§8Mana Cost: §b200\",16:\"§8Cooldown: §a4s\",17:\"\",18:\"§8This item can be reforged!\",19:\"§4☠ §cRequires §5Enderman Slayer 5§c.\",20:\"§5§lEPIC SWORD\"],Name:\"§5Vorpal Katana\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+190",
     "§7Strength: §c+80",
     "§7Crit Damage: §9+30%",
     "§7Intelligence: §b+200",
-    "§7Gemstones: §8[❁] [✎]",
+    "§7Gemstones: §8[] []",
     "",
     "§7Deal §a+250% §7damage to Endermen.",
     "§7Receive §a9% §7less damage from",
@@ -17,9 +17,9 @@
     "§7Endermen.",
     "",
     "§6Ability: Soulcry  §e§lRIGHT CLICK",
-    "§7Gain §c+300⫽ Ferocity §7against Endermen for §a4s",
+    "§7Gain §c+300 Ferocity §7against Endermen for §a4s",
     "§8Soulflow Cost: §31",
-    "§8Mana Cost: §3200",
+    "§8Mana Cost: §b200",
     "§8Cooldown: §a4s",
     "",
     "§8This item can be reforged!",
@@ -29,11 +29,10 @@
   "internalname": "VORPAL_KATANA",
   "clickcommand": "viewrecipe",
   "crafttext": "Requires: Enderman Slayer 5",
-  "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+  "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",
   "info": [
-    "https://hypixelskyblock.minecraft.wiki/w/Vorpal_Katana",
-    "https://wiki.hypixel.net/Vorpal_Katana"
+    "https://hypixelskyblock.minecraft.wiki/w/Vorpal_Katana"
   ],
   "recipe": {
     "A1": "",
