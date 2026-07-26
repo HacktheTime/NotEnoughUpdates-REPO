@@ -11,7 +11,6 @@
     "§c❤ Health§8: §c13,000"
   ],
   "internalname": "ZEALOT_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -26,7 +25,6 @@
       "combat_xp": 40,
       "name": "§cZealot",
       "render": "Enderman",
-      "panorama": "combat_3",
       "type": "drops",
       "drops": [
         {
@@ -63,7 +61,6 @@
       "combat_xp": 40,
       "name": "§cZealot (Enderchest)",
       "render": "@neurepo:mobs/zealot.json",
-      "panorama": "combat_3",
       "type": "drops",
       "drops": [
         {
@@ -119,7 +116,6 @@
       "xp": 10,
       "combat_xp": 40,
       "name": "§cZealot (Special)",
-      "panorama": "combat_3",
       "render": "Enderman",
       "type": "drops",
       "drops": [

@@ -9,7 +9,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "FROSTY_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -23,7 +22,6 @@
       "coins": 12,
       "xp": 30,
       "render": "Snowman",
-      "panorama": "winter",
       "type": "drops",
       "extra": [
         "§cRequirements:",

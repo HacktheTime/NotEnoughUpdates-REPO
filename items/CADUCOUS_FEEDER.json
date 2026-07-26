@@ -15,7 +15,6 @@
     "§9§lRARE"
   ],
   "internalname": "CADUCOUS_FEEDER",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Caducous Stem IV",
   "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
   "infoType": "WIKI_URL",

@@ -16,7 +16,6 @@
     "§c❤ Health§8: §c50(hits)"
   ],
   "internalname": "POWDER_GHAST_MONSTER",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -32,7 +31,6 @@
       "level": 1,
       "combat_xp": 0,
       "type": "drops",
-      "panorama": "mining_3",
       "drops": [
         {
           "id": "SKYBLOCK_POWDER_MITHRIL",

@@ -9,7 +9,6 @@
     "§c❁ Damage§8: §c100"
   ],
   "internalname": "KEY_GUARDIAN_MONSTER",
-  "clickcommand": "viewrecipe",
   "modver": "2.1.0-REL",
   "infoType": "WIKI_URL",
   "info": [
@@ -24,7 +23,6 @@
       "combat_xp": 60,
       "name": "§cKey Guardian",
       "render": "@neurepo:mobs/key_guardian.json",
-      "panorama": "hub",
       "type": "drops",
       "drops": [
         {

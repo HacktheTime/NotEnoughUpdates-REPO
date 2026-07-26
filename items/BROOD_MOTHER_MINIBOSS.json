@@ -13,7 +13,6 @@
     "§c❤ Health§8: §c1,000,000"
   ],
   "internalname": "BROOD_MOTHER_MINIBOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -27,7 +26,6 @@
       "xp": 30,
       "combat_xp": 25,
       "name": "§cBroodmother",
-      "panorama": "combat_1",
       "render": "Spider",
       "type": "drops",
       "drops": [

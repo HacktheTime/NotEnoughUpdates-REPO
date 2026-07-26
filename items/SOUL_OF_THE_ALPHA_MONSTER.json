@@ -14,7 +14,6 @@
     "§c❤ Health§8: §c31.150"
   ],
   "internalname": "SOUL_OF_THE_ALPHA_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -28,7 +27,6 @@
       "xp": 15,
       "combat_xp": 50,
       "name": "§3Soul of the Alpha",
-      "panorama": "foraging_1",
       "render": "Wolf",
       "type": "drops",
       "drops": [

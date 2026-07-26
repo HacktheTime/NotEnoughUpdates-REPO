@@ -25,7 +25,6 @@
     "§f§lCOMMON"
   ],
   "internalname": "MINOS_HUNTER_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -40,7 +39,6 @@
       "combat_xp": 5,
       "name": "§cMinos Hunter",
       "render": "@neurepo:mobs/minos_hunter.json",
-      "panorama": "hub",
       "extra": [
         "§cRequirements:",
         "§7- §fGriffin",
@@ -71,7 +69,6 @@
       "combat_xp": 10,
       "name": "§cBlessed Minos Hunter",
       "render": "@neurepo:mobs/minos_hunter.json",
-      "panorama": "hub",
       "extra": [
         "§cRequirements:",
         "§7- §9Griffin",
@@ -102,7 +99,6 @@
       "combat_xp": 15,
       "name": "§cStalwart Minos Hunter",
       "render": "@neurepo:mobs/minos_hunter.json",
-      "panorama": "hub",
       "extra": [
         "§cRequirements:",
         "§7- §9Griffin",
@@ -133,7 +129,6 @@
       "combat_xp": 20,
       "name": "§cVenerale Minos Hunter",
       "render": "@neurepo:mobs/minos_hunter.json",
-      "panorama": "hub",
       "extra": [
         "§7- §5Griffin",
         "§7Chance: 9.52%"

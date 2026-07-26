@@ -9,7 +9,6 @@
     "§f§lCOMMON"
   ],
   "internalname": "EXP_BOTTLE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Lapis Lazuli II",
   "modver": "Firmament 43.0.0+mc1.21.10",
   "infoType": "WIKI_URL",

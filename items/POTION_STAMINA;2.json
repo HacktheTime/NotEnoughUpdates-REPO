@@ -13,7 +13,6 @@
   ],
   "internalname": "POTION_STAMINA;2",
   "crafttext": "",
-  "clickcommand": "viewpotion",
   "modver": "",
   "infoType": ""
 }

@@ -15,7 +15,6 @@
     "§6§lLEGENDARY"
   ],
   "internalname": "SEA_EMPEROR_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -29,7 +28,6 @@
       "coins": 150,
       "xp": 120,
       "render": "@neurepo:mobs/sea_emperor.json",
-      "panorama": "foraging_2",
       "type": "drops",
       "extra": [
         "§cRequirements:",

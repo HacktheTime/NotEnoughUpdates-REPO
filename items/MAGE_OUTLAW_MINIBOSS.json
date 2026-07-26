@@ -9,7 +9,6 @@
     "§c❤ Health§8: §c70,000,000"
   ],
   "internalname": "MAGE_OUTLAW_MINIBOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -29,7 +28,6 @@
       "combat_xp": 4000,
       "render": "@neurepo:mobs/mage_outlaw.json",
       "type": "drops",
-      "panorama": "crimson_isle",
       "drops": [
         {
           "id": "GLOWSTONE_DUST",

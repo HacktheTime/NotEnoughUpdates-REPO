@@ -7,7 +7,6 @@
     "§c❤ Health§8: §c5.000.000"
   ],
   "internalname": "CINDERBAT_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -22,7 +21,6 @@
       "combat_xp": 300,
       "level": 90,
       "render": "Bat",
-      "panorama": "crimson_isle",
       "type": "drops",
       "drops": [
         {

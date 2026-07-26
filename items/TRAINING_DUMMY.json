@@ -13,7 +13,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "TRAINING_DUMMY",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Pumpkin V",
   "modver": "Firmament 44.1.0-dev+mc1.21.11+g90a48941",
   "infoType": "WIKI_URL",

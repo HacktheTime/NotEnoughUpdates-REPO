@@ -10,7 +10,6 @@
     "§f§lCOMMON"
   ],
   "internalname": "FRIED_CHICKEN_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "coins": 50,
       "xp": 50,
       "render": "Chicken",
-      "panorama": "crimson_isle",
       "type": "drops",
       "extra": [
         "§cRequirements:",

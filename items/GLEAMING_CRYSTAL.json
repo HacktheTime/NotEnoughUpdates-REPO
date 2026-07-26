@@ -23,7 +23,6 @@
     "§5§lEPIC REFORGE STONE"
   ],
   "internalname": "GLEAMING_CRYSTAL",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: HotM 4",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
   "infoType": "WIKI_URL",

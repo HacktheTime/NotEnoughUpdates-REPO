@@ -12,7 +12,6 @@
     "§c❤ Health§8: §c12"
   ],
   "internalname": "SCARY_JERRY_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -27,7 +26,6 @@
       "combat_xp": 20,
       "render": "@neurepo:mobs/scary_jerry.json",
       "name": "§6Scary Jerry",
-      "panorama": "hub",
       "type": "drops",
       "drops": [
         {

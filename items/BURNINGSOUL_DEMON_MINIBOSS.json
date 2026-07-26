@@ -11,7 +11,6 @@
     "§c❤ Health§8: §c50,000,000"
   ],
   "internalname": "BURNINGSOUL_DEMON_MINIBOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "combat_xp": 8000,
       "name": "§cBurningsoul Demon",
       "type": "drops",
-      "panorama": "crimson_isle",
       "render": "Blaze",
       "extra": [],
       "drops": [

@@ -12,7 +12,6 @@
   ],
   "internalname": "POTION_SPELUNKER;1",
   "crafttext": "",
-  "clickcommand": "viewpotion",
   "modver": "2.2.1",
   "infoType": ""
 }

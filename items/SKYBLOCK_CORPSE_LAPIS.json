@@ -10,7 +10,6 @@
     "§c§l§ka§r §c§lSPECIAL §c§l§ka"
   ],
   "internalname": "SKYBLOCK_CORPSE_LAPIS",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
   "infoType": "WIKI_URL",
@@ -21,7 +20,6 @@
     {
       "name": "§aLapis Corpse",
       "render": "@neurepo:mobs/corpse_lapis.json",
-      "panorama": "mineshaft",
       "extra": [
         "§7Corpses can be found and looted",
         "§7deep within the §3Glacite Mineshafts§7.",

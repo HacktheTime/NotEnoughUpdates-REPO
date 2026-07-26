@@ -10,7 +10,6 @@
     "§c❤ Health §8(MM) : §c4,500,000 - 12,800,000"
   ],
   "internalname": "UNDEAD_SKELETON_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -23,7 +22,6 @@
       "coins": 1,
       "xp": 30,
       "name": "§cUndead Skeleton",
-      "panorama": "dungeon",
       "render": "@neurepo:mobs/undead_skeleton.json",
       "type": "drops",
       "drops": [

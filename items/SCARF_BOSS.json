@@ -15,7 +15,6 @@
     "§c❤ Health §8(MM): §c375.000.000"
   ],
   "internalname": "SCARF_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -27,7 +26,6 @@
       "name": "§cScarf",
       "render": "@neurepo:mobs/scarf.json",
       "type": "drops",
-      "panorama": "dungeon",
       "drops": [
         {
           "id": "RED_SCARF",
@@ -67,7 +65,6 @@
       "name": "§cScarf (Master Mode)",
       "render": "@neurepo:mobs/scarf.json",
       "type": "drops",
-      "panorama": "dungeon",
       "drops": [
         {
           "id": "RED_SCARF",

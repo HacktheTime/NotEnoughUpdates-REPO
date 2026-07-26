@@ -20,7 +20,6 @@
     "§a§lUNCOMMON PET ITEM"
   ],
   "internalname": "PET_ITEM_SADDLE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Leather VII",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
   "infoType": "WIKI_URL",

@@ -11,7 +11,6 @@
     "§c❤ Health§8: §c4"
   ],
   "internalname": "LOTUM_ANIMAL",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
   "infoType": "WIKI_URL",
@@ -22,7 +21,6 @@
     {
       "name": "§aLotum",
       "render": "Frog",
-      "panorama": "lotus_atoll",
       "type": "drops",
       "drops": [
         {

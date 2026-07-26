@@ -21,7 +21,6 @@
     "§5§lEPIC SWORD"
   ],
   "internalname": "EMERALD_BLADE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Emerald VIII",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",

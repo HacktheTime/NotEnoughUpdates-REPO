@@ -10,7 +10,6 @@
     "§c❤ Health §8(MM) : §c1,100,000 - 20,000,000"
   ],
   "internalname": "CRYPT_SOULEATER_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -23,7 +22,6 @@
       "coins": 1,
       "xp": 30,
       "name": "§cCrypt Souleater",
-      "panorama": "dungeon",
       "render": "@neurepo:mobs/crypt_dreadlord.json",
       "type": "drops",
       "drops": [

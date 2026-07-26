@@ -17,7 +17,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "SIMPLE_CARROT_CANDY",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Carrot II",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
   "infoType": "WIKI_URL",

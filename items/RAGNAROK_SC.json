@@ -10,7 +10,6 @@
     "§d§lMYTHIC"
   ],
   "internalname": "RAGNAROK_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "coins": 7500,
       "xp": 7500,
       "render": "@neurepo:mobs/ragnarok.json",
-      "panorama": "fishing_1",
       "type": "drops",
       "extra": [
         "§cRequirements:",

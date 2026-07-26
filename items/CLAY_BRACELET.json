@@ -13,7 +13,6 @@
     "§9§lRARE BRACELET"
   ],
   "internalname": "CLAY_BRACELET",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Clay Ball V",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",

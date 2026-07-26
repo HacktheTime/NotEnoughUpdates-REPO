@@ -22,7 +22,6 @@
     "§5§lEPIC"
   ],
   "internalname": "MINOS_CHAMPION_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -37,7 +36,6 @@
       "combat_xp": 80,
       "name": "§cVenerale Minos Champion",
       "render": "@neurepo:mobs/minos_champion.json",
-      "panorama": "hub",
       "extra": [
         "§cRequirements:",
         "§7- §5Griffin",
@@ -62,7 +60,6 @@
       "combat_xp": 300,
       "name": "§cExalted Minos Champion",
       "render": "@neurepo:mobs/minos_champion.json",
-      "panorama": "hub",
       "extra": [
         "§cRequirements:",
         "§7- §6Griffin",

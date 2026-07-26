@@ -16,7 +16,6 @@
     "§5§lEPIC CHESTPLATE"
   ],
   "internalname": "FLAME_BREAKER_CHESTPLATE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Hard Stone V",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
   "infoType": "WIKI_URL",

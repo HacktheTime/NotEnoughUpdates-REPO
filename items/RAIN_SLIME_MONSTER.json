@@ -10,7 +10,6 @@
     "§c❤ Health§8: §c200 - 400"
   ],
   "internalname": "RAIN_SLIME_MONSTER",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "xp": 5,
       "combat_xp": 12,
       "name": "§cRain Slime",
-      "panorama": "combat_1",
       "render": "Slime",
       "type": "drops",
       "drops": [
@@ -51,7 +49,6 @@
       "coins": 10,
       "xp": 8,
       "name": "§cSlimey Slime",
-      "panorama": "combat_1",
       "render": "Slime",
       "type": "drops",
       "drops": [

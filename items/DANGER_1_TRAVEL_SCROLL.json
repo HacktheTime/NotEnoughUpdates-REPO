@@ -14,7 +14,6 @@
     "§9§lRARE TRAVEL SCROLL"
   ],
   "internalname": "DANGER_1_TRAVEL_SCROLL",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Gravel VIII",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
   "infoType": "WIKI_URL",

@@ -10,7 +10,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "WEATHER_NODE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Prismarine Shard VI",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
   "infoType": "WIKI_URL",

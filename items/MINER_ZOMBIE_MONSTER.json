@@ -13,7 +13,6 @@
     "§c❤ Health§8: §c250 - 300"
   ],
   "internalname": "MINER_ZOMBIE_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -28,7 +27,6 @@
       "combat_xp": 20,
       "name": "§cMiner Zombie",
       "render": "@neurepo:mobs/miner_zombie.json",
-      "panorama": "mining_2",
       "type": "drops",
       "drops": [
         {
@@ -72,7 +70,6 @@
       "combat_xp": 24,
       "name": "§cMiner Zombie",
       "render": "@neurepo:mobs/miner_zombie.json",
-      "panorama": "mining_2",
       "type": "drops",
       "drops": [
         {

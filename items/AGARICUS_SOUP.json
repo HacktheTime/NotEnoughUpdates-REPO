@@ -14,7 +14,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "AGARICUS_SOUP",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Agaricus Cap II",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
   "infoType": "WIKI_URL",

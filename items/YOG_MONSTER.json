@@ -11,7 +11,6 @@
     "§c❤ Health§8: §c35,000"
   ],
   "internalname": "YOG_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -26,7 +25,6 @@
       "combat_xp": 45,
       "name": "§cYog",
       "render": "MagmaCube",
-      "panorama": "crystal_hollows",
       "type": "drops",
       "drops": [
         {

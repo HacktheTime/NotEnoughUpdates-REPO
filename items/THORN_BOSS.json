@@ -14,7 +14,6 @@
     "§c❤ Health §8(MM): §c6 hits"
   ],
   "internalname": "THORN_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
     {
       "name": "§cThorn",
       "render": "@neurepo:mobs/thorn.json",
-      "panorama": "dungeon",
       "type": "drops",
       "drops": [
         {
@@ -97,7 +95,6 @@
     {
       "name": "§cThorn (Master Mode)",
       "render": "@neurepo:mobs/thorn.json",
-      "panorama": "dungeon",
       "type": "drops",
       "drops": [
         {

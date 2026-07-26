@@ -12,7 +12,6 @@
     "§c❤ Health§8: §c5,000"
   ],
   "internalname": "PACK_SPIRIT_MONSTER",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -26,7 +25,6 @@
       "xp": 10,
       "combat_xp": 22,
       "name": "§bPack Spirit",
-      "panorama": "foraging_1",
       "render": "Wolf",
       "type": "drops",
       "drops": [

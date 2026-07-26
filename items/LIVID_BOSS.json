@@ -14,7 +14,6 @@
     "§c❤ Health §8(MM): §c600.000.000"
   ],
   "internalname": "LIVID_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
     {
       "name": "§cLivid",
       "render": "@neurepo:mobs/livid.json",
-      "panorama": "dungeon",
       "type": "drops",
       "drops": [
         {
@@ -113,7 +111,6 @@
     {
       "name": "§cLivid (Master Mode)",
       "render": "@neurepo:mobs/livid.json",
-      "panorama": "dungeon",
       "type": "drops",
       "drops": [
         {

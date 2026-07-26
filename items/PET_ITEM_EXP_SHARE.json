@@ -21,7 +21,6 @@
     "§5§lEPIC PET ITEM"
   ],
   "internalname": "PET_ITEM_EXP_SHARE",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 42.0.0+mc1.21.10",
   "infoType": "WIKI_URL",

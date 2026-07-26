@@ -9,7 +9,6 @@
     "§c❤ Health§8: §c300,000"
   ],
   "internalname": "WITHER_SKELETON_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
       "name": "§fWither Skeleton",
       "render": "@neurepo:mobs/witherskeleton.json",
       "type": "drops",
-      "panorama": "crimson_isle",
       "drops": [
         {
           "id": "COAL:1",

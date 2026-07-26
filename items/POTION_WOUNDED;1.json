@@ -12,7 +12,6 @@
   ],
   "internalname": "POTION_WOUNDED;1",
   "crafttext": "",
-  "clickcommand": "viewpotion",
   "modver": "",
   "infoType": ""
 }

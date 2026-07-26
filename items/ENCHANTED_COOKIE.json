@@ -10,7 +10,6 @@
     "§9§lRARE"
   ],
   "internalname": "ENCHANTED_COOKIE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Cocoa Beans VI",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
   "infoType": "WIKI_URL",

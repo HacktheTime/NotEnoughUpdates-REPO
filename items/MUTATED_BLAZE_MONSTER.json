@@ -9,7 +9,6 @@
     "§c❤ Health§8: §c1,500,000"
   ],
   "internalname": "MUTATED_BLAZE_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "combat_xp": 75,
       "name": "§fMutated Blaze",
       "type": "drops",
-      "panorama": "crimson_isle",
       "render": "Blaze",
       "extra": [],
       "drops": [

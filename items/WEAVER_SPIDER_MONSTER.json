@@ -12,7 +12,6 @@
     "§c❤ Health§8: §c160 - 800"
   ],
   "internalname": "WEAVER_SPIDER_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -26,7 +25,6 @@
       "xp": 6,
       "combat_xp": 9,
       "name": "§cWeaver Spider",
-      "panorama": "combat_1",
       "render": "Spider",
       "type": "drops",
       "drops": [
@@ -58,7 +56,6 @@
       "xp": 10,
       "combat_xp": 28,
       "name": "§cWeaver Spider",
-      "panorama": "combat_1",
       "render": "Spider",
       "type": "drops",
       "drops": [

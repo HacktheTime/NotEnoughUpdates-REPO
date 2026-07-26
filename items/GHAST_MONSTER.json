@@ -13,7 +13,6 @@
     "§c❤ Health§8: §c330"
   ],
   "internalname": "GHAST_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -29,7 +28,6 @@
       "name": "§fGhast",
       "type": "drops",
       "render": "Ghast",
-      "panorama": "crimson_isle",
       "extra": [],
       "drops": [
         {
@@ -58,7 +56,6 @@
       "name": "§fDive Ghast",
       "type": "drops",
       "render": "Ghast",
-      "panorama": "crimson_isle",
       "extra": [],
       "drops": [
         {

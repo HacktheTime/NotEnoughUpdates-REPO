@@ -9,7 +9,6 @@
     "§5§lEPIC"
   ],
   "internalname": "MAGMA_PILLAR_SC",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -23,7 +22,6 @@
       "xp": 330,
       "name": "§cMagma Pillar",
       "render": "@neurepo:mobs/magma_pillar.json",
-      "panorama": "lotus_atoll",
       "type": "drops",
       "drops": [
         {

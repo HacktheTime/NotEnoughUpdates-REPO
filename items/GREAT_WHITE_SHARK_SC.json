@@ -10,7 +10,6 @@
     "§6§lLEGENDARY"
   ],
   "internalname": "GREAT_WHITE_SHARK_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "coins": 40,
       "xp": 160,
       "render": "@neurepo:mobs/great_white_shark.json",
-      "panorama": "hub",
       "type": "drops",
       "extra": [
         "§cRequirements:",

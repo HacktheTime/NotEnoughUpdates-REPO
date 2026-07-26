@@ -12,7 +12,6 @@
     "§f§lCOMMON"
   ],
   "internalname": "SHINY_ORB",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 43.0.0+mc1.21.10",
   "infoType": "WIKI_URL",
@@ -23,7 +22,6 @@
     {
       "name": "§6Shiny Pig",
       "render": "Pig",
-      "panorama": "farming_1",
       "extra": [
         "§7Shiny Pigs show up during",
         "§7the §dYear of the Pig §7event."

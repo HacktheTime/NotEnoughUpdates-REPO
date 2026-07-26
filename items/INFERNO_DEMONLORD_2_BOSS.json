@@ -30,7 +30,6 @@
     "§7Destroy them or die."
   ],
   "internalname": "INFERNO_DEMONLORD_2_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -42,7 +41,6 @@
       "xp": 1,
       "name": "§6Inferno Demonlord II",
       "render": "Blaze",
-      "panorama": "crimson_isle",
       "coins": 1,
       "combat_xp": 100,
       "type": "drops",

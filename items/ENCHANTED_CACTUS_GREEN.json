@@ -10,7 +10,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "ENCHANTED_CACTUS_GREEN",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Cactus IV",
   "modver": "Firmament 42.0.0+mc1.21.7",
   "infoType": "WIKI_URL",

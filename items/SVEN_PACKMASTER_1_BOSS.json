@@ -14,7 +14,6 @@
     "§7it hard to hit."
   ],
   "internalname": "SVEN_PACKMASTER_1_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
     {
       "xp": 5,
       "name": "§6Sven Packmaster I",
-      "panorama": "hub",
       "render": "Wolf",
       "type": "drops",
       "drops": [

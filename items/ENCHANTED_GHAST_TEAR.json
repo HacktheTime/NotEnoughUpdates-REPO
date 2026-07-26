@@ -10,7 +10,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "ENCHANTED_GHAST_TEAR",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Ghast Tear IV",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
   "infoType": "WIKI_URL",

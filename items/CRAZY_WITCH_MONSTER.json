@@ -12,7 +12,6 @@
     "§c❤ Health§8: §c17"
   ],
   "internalname": "CRAZY_WITCH_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -27,7 +26,6 @@
       "combat_xp": 20,
       "render": "Witch",
       "name": "§8Crazy Witch",
-      "panorama": "hub",
       "type": "drops",
       "drops": [
         {

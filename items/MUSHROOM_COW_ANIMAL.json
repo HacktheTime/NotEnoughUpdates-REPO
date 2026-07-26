@@ -11,7 +11,6 @@
     "§c❤ Health§8: §c50"
   ],
   "internalname": "MUSHROOM_COW_ANIMAL",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
       "combat_xp": 5,
       "name": "§aMushroom Cow",
       "render": "Mooshroom",
-      "panorama": "farming_1",
       "type": "drops",
       "drops": [
         {

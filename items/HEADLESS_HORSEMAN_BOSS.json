@@ -14,7 +14,6 @@
     "§c❤ Health§8: §c3,000,000"
   ],
   "internalname": "HEADLESS_HORSEMAN_BOSS",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -28,7 +27,6 @@
       "xp": 500,
       "render": "@neurepo:mobs/headless_horseman.json",
       "name": "§6Headless Horseman",
-      "panorama": "hub",
       "type": "drops",
       "drops": [
         {

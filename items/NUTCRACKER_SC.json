@@ -10,7 +10,6 @@
     "§5§lEPIC"
   ],
   "internalname": "NUTCRACKER_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -22,7 +21,6 @@
       "level": 50,
       "name": "§cNutcracker",
       "render": "@neurepo:mobs/nutcracker.json",
-      "panorama": "winter",
       "type": "drops",
       "extra": [
         "§cRequirements:",

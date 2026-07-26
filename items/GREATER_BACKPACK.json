@@ -11,7 +11,6 @@
     "§5§lEPIC"
   ],
   "internalname": "GREATER_BACKPACK",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Leather XI",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
   "infoType": "WIKI_URL",

@@ -14,7 +14,6 @@
     "§9§lRARE TRAVEL SCROLL"
   ],
   "internalname": "MINING_1_TRAVEL_SCROLL",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Coal VI",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
   "infoType": "WIKI_URL",

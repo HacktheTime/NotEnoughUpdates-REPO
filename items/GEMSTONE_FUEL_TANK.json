@@ -16,7 +16,6 @@
     "§9§lRARE"
   ],
   "internalname": "GEMSTONE_FUEL_TANK",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: HotM 7",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",

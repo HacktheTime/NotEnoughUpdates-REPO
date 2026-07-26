@@ -7,7 +7,6 @@
     "§7The Mossybit is a passive mob that can be found on §2Galatea§7."
   ],
   "internalname": "FROG_ANIMAL",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -19,7 +18,6 @@
       "level": 1,
       "name": "§aMossybit",
       "render": "Frog",
-      "panorama": "foraging_2",
       "type": "drops",
       "drops": [
         {

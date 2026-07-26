@@ -8,14 +8,12 @@
     "§f§lCOMMON"
   ],
   "internalname": "BANNER-15",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga97960bc",
   "infoType": "WIKI_URL",
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Banner"
   ],
-  "parent": "BANNER",
   "vanilla": true,
   "recipe": {
     "A1": "WOOL:1",

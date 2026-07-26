@@ -20,7 +20,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "SIAMESE_LYNXES_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -34,7 +33,6 @@
       "xp": 5,
       "combat_xp": 20,
       "name": "§cSiamese Lynx",
-      "panorama": "hub",
       "render": "Ocelot",
       "extra": [
         "§cRequirements:",
@@ -57,7 +55,6 @@
       "xp": 8,
       "combat_xp": 50,
       "name": "§cStalwart Siamese Lynx",
-      "panorama": "hub",
       "render": "Ocelot",
       "extra": [
         "§cRequirements:",
@@ -80,7 +77,6 @@
       "xp": 9,
       "combat_xp": 70,
       "name": "§cExalted Siamese Lynx",
-      "panorama": "hub",
       "render": "Ocelot",
       "extra": [
         "§cRequirements:",

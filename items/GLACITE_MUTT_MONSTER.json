@@ -10,7 +10,6 @@
     "§a❈ Defense§8: §a1,000"
   ],
   "internalname": "GLACITE_MUTT_MONSTER",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -26,7 +25,6 @@
       "combat_xp": 60,
       "name": "§bGlacite Mutt",
       "render": "Wolf",
-      "panorama": "mineshaft",
       "type": "drops",
       "drops": [
         {

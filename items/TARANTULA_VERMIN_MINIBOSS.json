@@ -11,7 +11,6 @@
     "§c❤ Health§8: §c54,000"
   ],
   "internalname": "TARANTULA_VERMIN_MINIBOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "render": "Spider",
       "level": 120,
       "type": "drops",
-      "panorama": "combat_1",
       "drops": [
         {
           "id": "TARANTULA_WEB",

@@ -10,7 +10,6 @@
     "§9§lRARE"
   ],
   "internalname": "SNAPPING_TURTLE_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "coins": 100,
       "xp": 30,
       "render": "@neurepo:mobs/snapping_turtle.json",
-      "panorama": "fishing_1",
       "type": "drops",
       "extra": [
         "§cRequirements:",

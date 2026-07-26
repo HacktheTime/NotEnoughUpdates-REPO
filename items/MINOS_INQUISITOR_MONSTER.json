@@ -21,7 +21,6 @@
     "§6§lLEGENDARY"
   ],
   "internalname": "MINOS_INQUISITOR_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -36,7 +35,6 @@
       "combat_xp": 500,
       "name": "§cMinos Inquisitor",
       "render": "@neurepo:mobs/minos_inquisitor.json",
-      "panorama": "hub",
       "extra": [
         "§cRequirements:",
         "§7- §6Griffin",

@@ -14,7 +14,6 @@
     "§f§lCOMMON"
   ],
   "internalname": "SCARECROW_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
   "infoType": "WIKI_URL",
@@ -28,7 +27,6 @@
       "coins": 100,
       "xp": 10,
       "render": "@neurepo:mobs/scarecrow.json",
-      "panorama": "hub",
       "type": "drops",
       "extra": [
         "§cRequirements:",

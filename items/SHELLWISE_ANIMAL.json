@@ -8,7 +8,6 @@
     "§c❤ Health§8: §c1,000 - 1,500"
   ],
   "internalname": "SHELLWISE_ANIMAL",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -20,7 +19,6 @@
       "level": 5,
       "name": "§cShellwise",
       "render": "Turtle",
-      "panorama": "foraging_2",
       "type": "drops",
       "drops": [
         {

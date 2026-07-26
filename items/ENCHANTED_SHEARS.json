@@ -13,7 +13,6 @@
     "§f§lCOMMON SHEARS"
   ],
   "internalname": "ENCHANTED_SHEARS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
   "infoType": "WIKI_URL",

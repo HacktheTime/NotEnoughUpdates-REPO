@@ -16,7 +16,6 @@
     "§5§lEPIC HELMET"
   ],
   "internalname": "FLAME_BREAKER_HELMET",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Hard Stone V",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
   "infoType": "WIKI_URL",

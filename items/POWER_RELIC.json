@@ -19,7 +19,6 @@
     "§5§lEPIC ACCESSORY"
   ],
   "internalname": "POWER_RELIC",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: HotM 10",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
   "infoType": "WIKI_URL",

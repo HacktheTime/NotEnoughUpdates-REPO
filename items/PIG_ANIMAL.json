@@ -10,7 +10,6 @@
     "§c❤ Health§8: §c50"
   ],
   "internalname": "PIG_ANIMAL",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "combat_xp": 3,
       "name": "§cPig",
       "render": "Pig",
-      "panorama": "farming_1",
       "type": "drops",
       "drops": [
         {

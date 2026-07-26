@@ -15,7 +15,6 @@
     "§5§lEPIC"
   ],
   "internalname": "HIGHLITE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Timite IV",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
   "infoType": "WIKI_URL",

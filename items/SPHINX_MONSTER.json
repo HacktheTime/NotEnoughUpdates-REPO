@@ -12,7 +12,6 @@
     "§d§lMYTHIC"
   ],
   "internalname": "SPHINX_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -27,7 +26,6 @@
       "combat_xp": 500,
       "name": "§cSphinx",
       "render": "@neurepo:mobs/sphinx.json",
-      "panorama": "hub",
       "extra": [
         "§cRequirements:",
         "§7- §6Griffin",
@@ -64,7 +62,6 @@
       "combat_xp": 750,
       "name": "§cSphinx",
       "render": "@neurepo:mobs/sphinx.json",
-      "panorama": "hub",
       "extra": [
         "§cRequirements:",
         "§7- §5Griffin",

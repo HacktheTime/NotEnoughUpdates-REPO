@@ -9,7 +9,6 @@
     "§9§lRARE"
   ],
   "internalname": "STRANDED_NYMPH_MONSTER",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 44.1.0-dev+mc1.21.11+g19f28a05",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "combat_xp": 15,
       "name": "§cBlessed Stranded Nymph",
       "render": "@neurepo:mobs/stranded_nymph.json",
-      "panorama": "hub",
       "extra": [],
       "type": "drops",
       "drops": [
@@ -53,7 +51,6 @@
       "combat_xp": 20,
       "name": "§cStalwart Stranded Nymph",
       "render": "@neurepo:mobs/stranded_nymph.json",
-      "panorama": "hub",
       "extra": [],
       "type": "drops",
       "drops": [
@@ -82,7 +79,6 @@
       "combat_xp": 25,
       "name": "§cVenerable Stranded Nymph",
       "render": "@neurepo:mobs/stranded_nymph.json",
-      "panorama": "hub",
       "extra": [],
       "type": "drops",
       "drops": [
@@ -111,7 +107,6 @@
       "combat_xp": 30,
       "name": "§cExalted Stranded Nymph",
       "render": "@neurepo:mobs/stranded_nymph.json",
-      "panorama": "hub",
       "extra": [],
       "type": "drops",
       "drops": [
@@ -140,7 +135,6 @@
       "combat_xp": 35,
       "name": "§cEmpyrean Stranded Nymph",
       "render": "@neurepo:mobs/stranded_nymph.json",
-      "panorama": "hub",
       "extra": [],
       "type": "drops",
       "drops": [

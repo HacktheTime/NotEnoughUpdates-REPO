@@ -20,7 +20,6 @@
     "§9§lRARE"
   ],
   "internalname": "BEACON_2",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Mithril X & HotM 2",
   "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
   "infoType": "WIKI_URL",

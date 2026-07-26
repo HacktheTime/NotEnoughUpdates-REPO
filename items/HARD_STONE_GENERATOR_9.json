@@ -17,7 +17,6 @@
     "§9§lRARE"
   ],
   "internalname": "HARD_STONE_GENERATOR_9",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Hard Stone I",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
   "infoType": "WIKI_URL",

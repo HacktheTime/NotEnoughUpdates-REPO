@@ -10,7 +10,6 @@
     "§d§lMYTHIC"
   ],
   "internalname": "LORD_JAWBUS_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "level": 600,
       "xp": 10000,
       "render": "Eisengolem",
-      "panorama": "crimson_isle",
       "type": "drops",
       "extra": [
         "§cRequirements:",

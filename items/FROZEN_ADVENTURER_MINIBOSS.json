@@ -11,7 +11,6 @@
     "§c❤ Health §8(MM) : §c60,000,000 - 160,000,000"
   ],
   "internalname": "FROZEN_ADVENTURER_MINIBOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -26,7 +25,6 @@
       "name": "§5Frozen Lost Adventurer",
       "render": "@neurepo:mobs/frozen_adventurer.json",
       "type": "drops",
-      "panorama": "dungeon",
       "drops": [
         {
           "id": "ENCHANTED_ICE",

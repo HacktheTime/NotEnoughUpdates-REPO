@@ -33,7 +33,6 @@
     "§6§lLEGENDARY DRILL"
   ],
   "internalname": "TITANIUM_DRILL_4",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: HotM 6",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",

@@ -10,7 +10,6 @@
     "§c❤ Health §8(MM) : §c8,600,000 - 35,000,000"
   ],
   "internalname": "KING_MIDAS_MINIBOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "combat_xp": 125,
       "name": "§d§lKing Midas",
       "render": "@neurepo:mobs/king_midas.json",
-      "panorama": "dungeon",
       "type": "drops",
       "drops": [
         {

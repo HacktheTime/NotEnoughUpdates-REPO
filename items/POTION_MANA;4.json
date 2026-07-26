@@ -12,7 +12,6 @@
   ],
   "internalname": "POTION_MANA;4",
   "crafttext": "",
-  "clickcommand": "viewpotion",
   "modver": "",
   "infoType": ""
 }

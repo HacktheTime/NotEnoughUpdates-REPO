@@ -16,7 +16,6 @@
     "§9§lRARE CHESTPLATE"
   ],
   "internalname": "GUARDIAN_CHESTPLATE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Prismarine Crystals V",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
   "infoType": "WIKI_URL",

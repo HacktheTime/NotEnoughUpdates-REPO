@@ -11,7 +11,6 @@
     "§f§lCOMMON"
   ],
   "internalname": "BOGGED_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "coins": 5,
       "name": "§cBogged",
       "render": "@neurepo:mobs/bogged.json",
-      "panorama": "foraging_2",
       "extra": [
         "§cRequirements:",
         "§7- Fishing Skill 5",

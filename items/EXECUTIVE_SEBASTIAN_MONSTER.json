@@ -9,7 +9,6 @@
     "§c❤ Health§8: §c18,000"
   ],
   "internalname": "EXECUTIVE_SEBASTIAN_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "combat_xp": 35,
       "name": "§cExecutive Sebastian",
       "render": "@neurepo:mobs/executive_sebastian.json",
-      "panorama": "crystal_hollows",
       "type": "drops",
       "drops": [
         {

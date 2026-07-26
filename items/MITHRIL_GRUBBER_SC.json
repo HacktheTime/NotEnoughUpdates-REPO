@@ -10,7 +10,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "MITHRIL_GRUBBER_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "coins": 10,
       "xp": 20,
       "render": "Silverfish",
-      "panorama": "mining_3",
       "type": "drops",
       "extra": [
         "§cRequirements:",
@@ -68,7 +66,6 @@
       "coins": 10,
       "xp": 20,
       "render": "Silverfish",
-      "panorama": "mining_3",
       "type": "drops",
       "extra": [
         "§cRequirements:",
@@ -112,7 +109,6 @@
       "coins": 10,
       "xp": 20,
       "render": "Silverfish",
-      "panorama": "mining_3",
       "type": "drops",
       "extra": [
         "§cRequirements:",
@@ -156,7 +152,6 @@
       "coins": 10,
       "xp": 20,
       "render": "Silverfish",
-      "panorama": "mining_3",
       "type": "drops",
       "extra": [
         "§cRequirements:",

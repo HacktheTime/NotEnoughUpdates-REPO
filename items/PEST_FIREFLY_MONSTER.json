@@ -12,7 +12,6 @@
     "§c❤ Health§8: §c600"
   ],
   "internalname": "PEST_FIREFLY_MONSTER",
-  "clickcommand": "viewrecipe",
   "modver": "Firmament 42.0.0+mc1.21.7",
   "crafttext": "",
   "infoType": "WIKI_URL",
@@ -22,7 +21,6 @@
       "level": 1,
       "coins": 1000,
       "xp": 10,
-      "panorama": "garden",
       "render": "@neurepo:mobs/pest_firefly.json",
       "name": "§aFirefly",
       "type": "drops",

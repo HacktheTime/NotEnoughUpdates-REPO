@@ -14,7 +14,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "MAGIC_MUSHROOM_SOUP",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Mushroom IV",
   "modver": "Firmament 44.0.1+mc1.21.11",
   "infoType": "WIKI_URL",

@@ -22,7 +22,6 @@
     "§7of pups."
   ],
   "internalname": "SVEN_PACKMASTER_4_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -34,7 +33,6 @@
       "xp": 500,
       "name": "§6Sven Packmaster IV",
       "render": "Wolf",
-      "panorama": "hub",
       "type": "drops",
       "drops": [
         {

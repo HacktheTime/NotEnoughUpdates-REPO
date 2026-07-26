@@ -11,7 +11,6 @@
     "§c❤ Health§8: §c25,000,000"
   ],
   "internalname": "VOIDLING_RADICAL_MINIBOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "name": "§cVoidgloom Radical",
       "render": "Enderman",
       "type": "drops",
-      "panorama": "combat_3",
       "drops": [
         {
           "id": "NULL_SPHERE:2",

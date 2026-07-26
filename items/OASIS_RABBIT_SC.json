@@ -10,7 +10,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "OASIS_RABBIT_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -23,7 +22,6 @@
       "level": 10,
       "render": "Rabbit",
       "type": "drops",
-      "panorama": "farming_1",
       "extra": [
         "§cRequirements:",
         "§7- Fishing Skill 10",

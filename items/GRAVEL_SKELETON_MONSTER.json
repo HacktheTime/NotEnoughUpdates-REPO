@@ -12,7 +12,6 @@
     "§c❁ Damage§8: §c35"
   ],
   "internalname": "GRAVEL_SKELETON_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
       "coins": 1,
       "xp": 1,
       "name": "§cFlint Skeleton",
-      "panorama": "combat_1",
       "render": "Skeleton",
       "type": "drops",
       "drops": [

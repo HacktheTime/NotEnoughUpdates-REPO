@@ -25,7 +25,6 @@
     "§9§lRARE REFORGE STONE"
   ],
   "internalname": "ROCK_GEMSTONE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: HotM 3",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
   "infoType": "WIKI_URL",

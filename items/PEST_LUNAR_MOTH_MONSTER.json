@@ -12,7 +12,6 @@
     "§c❤ Health§8: §c600"
   ],
   "internalname": "PEST_LUNAR_MOTH_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "",
   "infoType": "",
@@ -22,7 +21,6 @@
       "level": 1,
       "coins": 1000,
       "xp": 10,
-      "panorama": "garden",
       "render": "@neurepo:mobs/pest_lunar_moth.json",
       "name": "§aLunar Moth",
       "type": "drops",

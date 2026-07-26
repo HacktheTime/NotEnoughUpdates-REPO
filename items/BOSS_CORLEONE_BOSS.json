@@ -10,7 +10,6 @@
     "§c❤ Health§8: §c1,000,000"
   ],
   "internalname": "BOSS_CORLEONE_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
       "combat_xp": 150,
       "name": "§6Boss Corleone",
       "render": "@neurepo:mobs/boss_corleone.json",
-      "panorama": "crystal_hollows",
       "type": "drops",
       "drops": [
         {

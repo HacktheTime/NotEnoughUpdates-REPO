@@ -12,7 +12,6 @@
     "§9§lRARE"
   ],
   "internalname": "EXPERIMENTATION_TABLE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Enchanting X",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
   "infoType": "WIKI_URL",

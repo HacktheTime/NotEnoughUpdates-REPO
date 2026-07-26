@@ -8,7 +8,6 @@
     "§7They only appear while it is Spring or Summer."
   ],
   "internalname": "BAMBULEAF_PANDA_ANIMAL",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -20,7 +19,6 @@
       "level": 1,
       "name": "§aBambuleaf",
       "render": "Panda",
-      "panorama": "foraging_2",
       "type": "drops",
       "drops": [
         {

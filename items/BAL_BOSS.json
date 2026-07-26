@@ -14,7 +14,6 @@
     "§c❤ Health§8: §c200"
   ],
   "internalname": "BAL_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
     {
       "level": 100,
       "name": "§cBal",
-      "panorama": "crystal_hollows",
       "render": "MagmaCube",
       "type": "drops",
       "drops": [

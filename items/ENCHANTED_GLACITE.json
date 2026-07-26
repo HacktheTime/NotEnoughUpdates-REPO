@@ -10,7 +10,6 @@
     "§9§lRARE DWARVEN METAL"
   ],
   "internalname": "ENCHANTED_GLACITE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Glacite II",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",

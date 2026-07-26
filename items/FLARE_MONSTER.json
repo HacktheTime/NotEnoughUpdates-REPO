@@ -9,7 +9,6 @@
     "§c❤ Health§8: §c5,000,000"
   ],
   "internalname": "FLARE_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "combat_xp": 120,
       "name": "§fFlare",
       "type": "drops",
-      "panorama": "crimson_isle",
       "render": "@neurepo:mobs/flare.json",
       "extra": [],
       "drops": [

@@ -10,7 +10,6 @@
     "§c❤ Health §8(MM) : §c60,000 - 225,000"
   ],
   "internalname": "TANK_ZOMBIE_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -23,7 +22,6 @@
       "coins": 1,
       "xp": 30,
       "name": "§cTank Zombie",
-      "panorama": "dungeon",
       "render": "@neurepo:mobs/tank_zombie.json",
       "type": "drops",
       "drops": [

@@ -11,7 +11,6 @@
     "§c❤ Health§8: §c10,000 - 100,000"
   ],
   "internalname": "ARACHNES_BROOD_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
       "xp": 10,
       "combat_xp": 80,
       "name": "§cArachne's Brood",
-      "panorama": "combat_1",
       "render": "Spider",
       "type": "drops",
       "drops": [
@@ -45,7 +43,6 @@
       "xp": 13,
       "combat_xp": 120,
       "name": "§cArachne's Brood",
-      "panorama": "combat_1",
       "render": "Spider",
       "type": "drops",
       "drops": [

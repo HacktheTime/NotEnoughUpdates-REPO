@@ -12,7 +12,6 @@
     "§c❤ Health§8: §c15,000"
   ],
   "internalname": "TREASURE_HOARDER_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
       "combat_xp": 70,
       "name": "§cTreasure Hoarder",
       "render": "@neurepo:mobs/treasure_hoarder.json",
-      "panorama": "mining_3",
       "type": "drops",
       "drops": [
         {

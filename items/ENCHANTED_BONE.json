@@ -9,7 +9,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "ENCHANTED_BONE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Bone V",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
   "infoType": "WIKI_URL",

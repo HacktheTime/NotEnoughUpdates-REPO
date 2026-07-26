@@ -12,7 +12,6 @@
     "§c❤ Health§8: §c600"
   ],
   "internalname": "PEST_CRICKET_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -22,7 +21,6 @@
       "level": 1,
       "coins": 1000,
       "xp": 10,
-      "panorama": "garden",
       "render": "@neurepo:mobs/pest_cricket.json",
       "name": "§aCricket",
       "type": "drops",

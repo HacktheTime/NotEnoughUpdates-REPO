@@ -10,7 +10,6 @@
     "§7gaining them when it hatches at level 100."
   ],
   "internalname": "JADE_DRAGON_NPC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 43.0.0+mc1.21.10",
   "infoType": "WIKI_URL",

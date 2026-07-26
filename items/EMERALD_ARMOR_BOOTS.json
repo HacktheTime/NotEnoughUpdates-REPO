@@ -16,7 +16,6 @@
     "§5§lEPIC BOOTS"
   ],
   "internalname": "EMERALD_ARMOR_BOOTS",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Emerald IX",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
   "infoType": "WIKI_URL",

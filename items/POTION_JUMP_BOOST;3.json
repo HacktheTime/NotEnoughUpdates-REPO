@@ -13,7 +13,6 @@
   ],
   "internalname": "POTION_JUMP_BOOST;3",
   "crafttext": "",
-  "clickcommand": "viewpotion",
   "modver": "",
   "infoType": ""
 }

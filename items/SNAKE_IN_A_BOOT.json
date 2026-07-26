@@ -12,7 +12,6 @@
     "§6§lLEGENDARY BOOTS"
   ],
   "internalname": "SNAKE_IN_A_BOOT",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Living Metal Heart I",
   "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
   "infoType": "WIKI_URL",

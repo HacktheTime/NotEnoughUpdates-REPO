@@ -10,7 +10,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "RIDER_OF_THE_DEEP_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "coins": 10,
       "xp": 15,
       "render": "@neurepo:mobs/rider_of_the_deep.json",
-      "panorama": "hub",
       "type": "drops",
       "extra": [
         "§cRequirements:",

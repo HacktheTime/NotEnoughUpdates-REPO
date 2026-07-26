@@ -14,7 +14,6 @@
     "§9§lRARE BAIT"
   ],
   "internalname": "WHALE_BAIT",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Lily Pad VI",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",

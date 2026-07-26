@@ -9,7 +9,6 @@
     "§a❈ Defense§8: §a200"
   ],
   "internalname": "GOLEM_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "combat_xp": 4000,
       "name": "§cGolem",
       "render": "Eisengolem",
-      "panorama": "dungeon",
       "type": "drops",
       "drops": [
         {
@@ -41,7 +39,6 @@
       "combat_xp": 6000,
       "name": "§cGolem (Master Mode)",
       "render": "Eisengolem",
-      "panorama": "dungeon",
       "type": "drops",
       "drops": [
         {

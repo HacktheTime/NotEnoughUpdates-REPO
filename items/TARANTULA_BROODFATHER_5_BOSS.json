@@ -37,7 +37,6 @@
     "§cDamage §7but only uses §6passive§7 abilities."
   ],
   "internalname": "TARANTULA_BROODFATHER_5_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -51,7 +50,6 @@
       "coins": 1,
       "name": "§6Tarantula Broodfather V",
       "render": "Spider",
-      "panorama": "combat_1",
       "type": "drops",
       "drops": [
         {

@@ -21,7 +21,6 @@
     "§5§lEPIC PET ITEM"
   ],
   "internalname": "PET_ITEM_LUCKY_CLOVER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
   "infoType": "WIKI_URL",

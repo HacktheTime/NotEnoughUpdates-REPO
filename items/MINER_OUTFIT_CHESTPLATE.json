@@ -14,7 +14,6 @@
     "§a§lUNCOMMON CHESTPLATE"
   ],
   "internalname": "MINER_OUTFIT_CHESTPLATE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Iron Ingot II",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
   "infoType": "WIKI_URL",

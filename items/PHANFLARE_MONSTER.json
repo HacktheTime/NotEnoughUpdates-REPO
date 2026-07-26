@@ -12,7 +12,6 @@
     "§c❁ Damage§8: §c1"
   ],
   "internalname": "PHANFLARE_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -27,7 +26,6 @@
       "combat_xp": 15,
       "name": "§cPhanflare",
       "render": "Phantom",
-      "panorama": "foraging_2",
       "type": "drops",
       "drops": [
         {

@@ -10,7 +10,6 @@
     "§c❤ Health §8(MM) : §c17.373.736 - 20.606.060"
   ],
   "internalname": "SKELETOR_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "xp": 30,
       "name": "§cSkeletor",
       "render": "@neurepo:mobs/skeletor.json",
-      "panorama": "dungeon",
       "type": "drops",
       "drops": [
         {

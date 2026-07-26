@@ -9,7 +9,6 @@
   "internalname": "EMPTY_MAP",
   "modver": "2.1.0-REL",
   "vanilla": true,
-  "clickcommand": "viewrecipe",
   "recipe": {
     "A1": "PAPER:1",
     "A2": "PAPER:1",

@@ -24,7 +24,6 @@
     "§5§lEPIC CHESTPLATE"
   ],
   "internalname": "REVENANT_CHESTPLATE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Zombie Slayer 5",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",

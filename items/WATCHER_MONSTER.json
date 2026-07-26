@@ -14,7 +14,6 @@
     "§c❁ Damage§8: §c500"
   ],
   "internalname": "WATCHER_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -29,7 +28,6 @@
       "combat_xp": 40,
       "name": "§5⊙ §cSeer",
       "render": "@neurepo:mobs/watcher.json",
-      "panorama": "combat_3",
       "type": "drops",
       "drops": [
         {

@@ -10,7 +10,6 @@
     "§d§lMYTHIC"
   ],
   "internalname": "TITANOBOA_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "coins": 5500,
       "xp": 175,
       "render": "@neurepo:mobs/titanoboa.json",
-      "panorama": "fishing_1",
       "type": "drops",
       "extra": [
         "§cRequirements:",

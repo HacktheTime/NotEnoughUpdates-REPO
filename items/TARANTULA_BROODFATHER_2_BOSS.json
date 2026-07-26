@@ -18,7 +18,6 @@
     "Speed§7 by §c10%§7."
   ],
   "internalname": "TARANTULA_BROODFATHER_2_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga97960bc",
   "infoType": "WIKI_URL",
@@ -32,7 +31,6 @@
       "coins": 1,
       "name": "§6Tarantula Broodfather II",
       "render": "Spider",
-      "panorama": "combat_1",
       "type": "drops",
       "drops": [
         {

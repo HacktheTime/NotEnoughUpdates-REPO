@@ -10,7 +10,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "HASTE_BLOCK",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: End Stone VI",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",

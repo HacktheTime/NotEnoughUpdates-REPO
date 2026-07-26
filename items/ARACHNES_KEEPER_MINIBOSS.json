@@ -9,7 +9,6 @@
     "§c❤ Health§8: §c100,000"
   ],
   "internalname": "ARACHNES_KEEPER_MINIBOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -23,7 +22,6 @@
       "xp": 10,
       "name": "§fArachne's Keeper",
       "render": "Spider",
-      "panorama": "combat_1",
       "type": "drops",
       "drops": [
         {

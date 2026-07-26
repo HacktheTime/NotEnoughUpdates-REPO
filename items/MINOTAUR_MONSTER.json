@@ -21,7 +21,6 @@
     "§9§lRARE"
   ],
   "internalname": "MINOTAUR_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -36,7 +35,6 @@
       "combat_xp": 30,
       "name": "§cVenerable Minotaur",
       "render": "@neurepo:mobs/minotaur.json",
-      "panorama": "hub",
       "type": "drops",
       "extra": [
         "§cRequirements:",
@@ -69,7 +67,6 @@
       "combat_xp": 60,
       "name": "§cExalted Minotaur",
       "render": "@neurepo:mobs/minotaur.json",
-      "panorama": "hub",
       "extra": [
         "§cRequirements:",
         "§7- §6Griffin",
@@ -102,7 +99,6 @@
       "combat_xp": 150,
       "name": "§cEmpyrean Minotaur",
       "render": "@neurepo:mobs/minotaur.json",
-      "panorama": "hub",
       "extra": [
         "§cRequirements:",
         "§7- §dGriffin",

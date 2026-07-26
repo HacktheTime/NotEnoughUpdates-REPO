@@ -22,7 +22,6 @@
     "§7Stand next to them or die."
   ],
   "internalname": "VOIDGLOOM_SERAPH_2_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -34,7 +33,6 @@
       "xp": 25,
       "name": "§6Voidgloom Seraph II",
       "render": "Enderman",
-      "panorama": "combat_3",
       "combat_xp": 100,
       "type": "drops",
       "drops": [

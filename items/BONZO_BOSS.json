@@ -14,7 +14,6 @@
     "§c❤ Health §8(MM): §c200.000.000"
   ],
   "internalname": "BONZO_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
     {
       "name": "§cBonzo",
       "render": "@neurepo:mobs/bonzo.json",
-      "panorama": "dungeon",
       "type": "drops",
       "drops": [
         {
@@ -65,7 +63,6 @@
     {
       "name": "§cBonzo (Master Mode)",
       "render": "@neurepo:mobs/bonzo.json",
-      "panorama": "dungeon",
       "type": "drops",
       "drops": [
         {

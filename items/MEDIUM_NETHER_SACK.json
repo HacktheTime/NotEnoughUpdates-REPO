@@ -16,7 +16,6 @@
     "§9§lRARE SACK"
   ],
   "internalname": "MEDIUM_NETHER_SACK",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Sulphur V",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
   "infoType": "WIKI_URL",

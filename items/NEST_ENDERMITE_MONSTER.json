@@ -11,7 +11,6 @@
     "§c❤ Health§8: §c4,500"
   ],
   "internalname": "NEST_ENDERMITE_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
       "xp": 24,
       "combat_xp": 38,
       "name": "§cNest Endermite",
-      "panorama": "combat_3",
       "render": "Endermite",
       "type": "drops",
       "drops": [

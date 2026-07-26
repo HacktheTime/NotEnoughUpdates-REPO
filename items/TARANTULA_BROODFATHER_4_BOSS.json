@@ -30,7 +30,6 @@
     "§7Max §c❤§7 per second for each bat alive."
   ],
   "internalname": "TARANTULA_BROODFATHER_4_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga97960bc",
   "infoType": "WIKI_URL",
@@ -42,7 +41,6 @@
       "xp": 5,
       "name": "§6Tarantula Broodfather IV",
       "render": "Spider",
-      "panorama": "combat_1",
       "type": "drops",
       "drops": [
         {

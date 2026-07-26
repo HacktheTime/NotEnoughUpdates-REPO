@@ -9,7 +9,6 @@
     "§c❤ Health§8: §c3"
   ],
   "internalname": "LARVA_MONSTER",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "render": "@neurepo:mobs/larva.json",
       "level": 0,
       "type": "drops",
-      "panorama": "rift",
       "drops": [
         {
           "id": "LARVA_SILK:1",

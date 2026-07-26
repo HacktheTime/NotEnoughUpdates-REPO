@@ -9,7 +9,6 @@
     "§d§lMYTHIC"
   ],
   "internalname": "FROG_PRINCE_SC",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "xp": 1320,
       "name": "§cFrog Prince",
       "render": "@neurepo:mobs/frog_prince.json",
-      "panorama": "lotus_atoll",
       "type": "drops",
       "drops": [
         {

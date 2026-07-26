@@ -11,7 +11,6 @@
     "§c❤ Health§8: §c170 - 900"
   ],
   "internalname": "DASHER_SPIDER_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
       "xp": 8,
       "combat_xp": 10,
       "name": "§cDasher Spider",
-      "panorama": "combat_1",
       "render": "Spider",
       "type": "drops",
       "drops": [
@@ -57,7 +55,6 @@
       "xp": 9,
       "combat_xp": 10,
       "name": "§cDasher Spider",
-      "panorama": "combat_1",
       "render": "Spider",
       "type": "drops",
       "drops": [
@@ -89,7 +86,6 @@
       "xp": 10,
       "combat_xp": 28,
       "name": "§cDasher Spider",
-      "panorama": "combat_1",
       "render": "Spider",
       "type": "drops",
       "drops": [
@@ -128,7 +124,6 @@
       "xp": 10,
       "combat_xp": 30,
       "name": "§cDasher Spider",
-      "panorama": "combat_1",
       "render": "Spider",
       "type": "drops",
       "drops": [
@@ -167,7 +162,6 @@
       "xp": 10,
       "combat_xp": 36,
       "name": "§cDasher Spider",
-      "panorama": "combat_1",
       "render": "Spider",
       "type": "drops",
       "drops": [

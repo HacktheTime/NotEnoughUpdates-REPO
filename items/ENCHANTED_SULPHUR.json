@@ -9,7 +9,6 @@
     "§9§lRARE ORE"
   ],
   "internalname": "ENCHANTED_SULPHUR",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Sulphur II",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",

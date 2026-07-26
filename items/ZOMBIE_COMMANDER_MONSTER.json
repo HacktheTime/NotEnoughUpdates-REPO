@@ -10,7 +10,6 @@
     "§c❤ Health §8(MM) : §c160,000,000 - 250,000,000"
   ],
   "internalname": "ZOMBIE_COMMANDER_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -23,7 +22,6 @@
       "coins": 1,
       "xp": 30,
       "name": "§cZombie Commander",
-      "panorama": "dungeon",
       "render": "@neurepo:mobs/zombie_commander.json",
       "type": "drops",
       "drops": [

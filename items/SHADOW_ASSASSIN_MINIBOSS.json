@@ -10,7 +10,6 @@
     "§c❤ Health §8(MM) : §c55,000,000 - 145,000,000"
   ],
   "internalname": "SHADOW_ASSASSIN_MINIBOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
       "name": "§5Shadow Assassin",
       "render": "@neurepo:mobs/shadow_assassin.json",
       "type": "drops",
-      "panorama": "dungeon",
       "drops": [
         {
           "id": "SILENT_DEATH",

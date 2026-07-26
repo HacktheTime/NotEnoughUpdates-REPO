@@ -9,7 +9,6 @@
     "§c❤ Health§8: §c20,000 - 100,000"
   ],
   "internalname": "ARACHNE_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -23,7 +22,6 @@
       "xp": 15,
       "combat_xp": 200,
       "name": "§6Arachne",
-      "panorama": "combat_1",
       "render": "Spider",
       "type": "drops",
       "drops": [
@@ -106,7 +104,6 @@
       "xp": 20,
       "combat_xp": 400,
       "name": "§6Arachne",
-      "panorama": "combat_1",
       "render": "Spider",
       "type": "drops",
       "drops": [

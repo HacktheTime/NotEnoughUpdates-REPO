@@ -11,7 +11,6 @@
     "§9§lRARE"
   ],
   "internalname": "TADGANG_FROG_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -23,7 +22,6 @@
       "coins": 5,
       "xp": 5,
       "render": "Frog",
-      "panorama": "foraging_2",
       "type": "drops",
       "extra": [
         "§cRequirements:",
@@ -71,7 +69,6 @@
       "coins": 6,
       "xp": 6,
       "render": "Frog",
-      "panorama": "foraging_2",
       "type": "drops",
       "extra": [
         "§cRequirements:",

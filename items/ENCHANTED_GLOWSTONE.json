@@ -10,7 +10,6 @@
     "§a§lUNCOMMON BLOCK"
   ],
   "internalname": "ENCHANTED_GLOWSTONE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Glowstone Dust VI",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
   "infoType": "WIKI_URL",

@@ -19,7 +19,6 @@
   },
   "internalname": "GOLDEN_APPLE-1",
   "crafttext": "",
-  "clickcommand": "viewrecipe",
   "vanilla": true,
   "modver": "2.1.0-REL",
   "infoType": ""

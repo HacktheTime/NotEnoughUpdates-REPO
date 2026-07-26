@@ -12,7 +12,6 @@
     "§a§lUNCOMMON BOOTS"
   ],
   "internalname": "PUMPKIN_BOOTS",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Carrot VIII",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
   "infoType": "WIKI_URL",

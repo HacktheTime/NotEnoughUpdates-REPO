@@ -7,7 +7,6 @@
     "§7This NPC can be found in §cThe Catacombs§7."
   ],
   "internalname": "ZODD_NPC",
-  "clickcommand": "",
   "modver": "2.1.1-PRE",
   "recipes": [
     {

@@ -14,7 +14,6 @@
     "§c❤ Health §8(MM): §c600.000.000"
   ],
   "internalname": "PROFESSOR_BOSS",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
     {
       "name": "§cThe Professor",
       "render": "@neurepo:mobs/the_professor.json",
-      "panorama": "dungeon",
       "type": "drops",
       "drops": [
         {
@@ -68,7 +66,6 @@
     {
       "name": "§cThe Professor (Master Mode)",
       "render": "@neurepo:mobs/the_professor.json",
-      "panorama": "dungeon",
       "type": "drops",
       "drops": [
         {

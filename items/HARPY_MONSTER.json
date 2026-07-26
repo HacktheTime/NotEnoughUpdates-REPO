@@ -9,7 +9,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "HARPY_MONSTER",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 44.1.0-dev+mc1.21.11+g19f28a05",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "combat_xp": 30,
       "name": "§cStalwart Harpy",
       "render": "@neurepo:mobs/harpy.json",
-      "panorama": "hub",
       "extra": [],
       "type": "drops",
       "drops": [
@@ -53,7 +51,6 @@
       "combat_xp": 45,
       "name": "§cVenerable Harpy",
       "render": "@neurepo:mobs/harpy.json",
-      "panorama": "hub",
       "extra": [],
       "type": "drops",
       "drops": [
@@ -82,7 +79,6 @@
       "combat_xp": 25,
       "name": "§cExalted Harpy",
       "render": "@neurepo:mobs/harpy.json",
-      "panorama": "hub",
       "extra": [],
       "type": "drops",
       "drops": [
@@ -111,7 +107,6 @@
       "combat_xp": 75,
       "name": "§cEmpyrean Harpy",
       "render": "@neurepo:mobs/harpy.json",
-      "panorama": "hub",
       "extra": [],
       "type": "drops",
       "drops": [

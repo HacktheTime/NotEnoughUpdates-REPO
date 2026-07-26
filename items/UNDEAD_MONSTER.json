@@ -7,7 +7,6 @@
     "§7The Watcher´s personal henchmen"
   ],
   "internalname": "UNDEAD_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -22,7 +21,6 @@
       "combat_xp": 0,
       "name": "§c§4§lUndead",
       "render": "Zombie",
-      "panorama": "dungeon",
       "type": "drops",
       "drops": [
         {
@@ -39,7 +37,6 @@
       "combat_xp": 225,
       "name": "§c§4§lUndead §8(§cMaster§8)",
       "render": "Zombie",
-      "panorama": "dungeon",
       "type": "drops",
       "drops": [
         {

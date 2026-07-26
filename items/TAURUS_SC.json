@@ -10,7 +10,6 @@
     "§5§lEPIC"
   ],
   "internalname": "TAURUS_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "coins": 2000,
       "xp": 4000,
       "render": "@neurepo:mobs/taurus.json",
-      "panorama": "crimson_isle",
       "type": "drops",
       "extra": [
         "§cRequirements:",

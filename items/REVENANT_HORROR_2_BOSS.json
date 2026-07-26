@@ -17,7 +17,6 @@
     "§7shredding armor by 25%."
   ],
   "internalname": "REVENANT_HORROR_2_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -29,7 +28,6 @@
       "xp": 25,
       "name": "§6Revenant Horror II",
       "render": "@neurepo:mobs/revenant_horror.json",
-      "panorama": "hub",
       "type": "drops",
       "drops": [
         {

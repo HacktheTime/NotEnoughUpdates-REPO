@@ -32,7 +32,6 @@
     "§5§lEPIC DRILL"
   ],
   "internalname": "TITANIUM_DRILL_1",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: HotM 5",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",

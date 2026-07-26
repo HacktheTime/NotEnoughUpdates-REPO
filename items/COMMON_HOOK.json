@@ -15,7 +15,6 @@
     "§9§lRARE ROD PART"
   ],
   "internalname": "COMMON_HOOK",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Lily Pad V",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",

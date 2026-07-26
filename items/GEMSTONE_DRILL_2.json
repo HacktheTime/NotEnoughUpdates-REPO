@@ -38,7 +38,6 @@
     "§9§lRARE DRILL"
   ],
   "internalname": "GEMSTONE_DRILL_2",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: HotM 4",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
   "infoType": "WIKI_URL",

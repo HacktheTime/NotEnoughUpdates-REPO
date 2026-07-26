@@ -12,7 +12,6 @@
     "§a§lUNCOMMON ACCESSORY"
   ],
   "internalname": "RED_CLAW_TALISMAN",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Wolf Slayer 1",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
   "infoType": "WIKI_URL",

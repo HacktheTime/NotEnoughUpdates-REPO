@@ -24,7 +24,6 @@
     "§a§lUNCOMMON DEPLOYABLE"
   ],
   "internalname": "WARNING_FLARE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Blaze Slayer 3",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",

@@ -9,7 +9,6 @@
     "§a§lUNCOMMON"
   ],
   "internalname": "ENCHANTED_RAW_BEEF",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Leather IV",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
   "infoType": "WIKI_URL",

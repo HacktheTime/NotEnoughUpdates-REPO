@@ -10,7 +10,6 @@
     "§c❤ Health §8(MM) : §c140,000 - 2,000,000"
   ],
   "internalname": "LONELY_SPIDER_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -23,7 +22,6 @@
       "coins": 1,
       "xp": 30,
       "name": "§cLonely Spider",
-      "panorama": "dungeon",
       "render": "Spider",
       "type": "drops",
       "drops": [

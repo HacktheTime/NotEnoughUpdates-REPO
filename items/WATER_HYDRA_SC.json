@@ -10,7 +10,6 @@
     "§6§lLEGENDARY"
   ],
   "internalname": "WATER_HYDRA_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "coins": 200,
       "xp": 200,
       "render": "@neurepo:mobs/water_hydra.json",
-      "panorama": "crystal_hollows",
       "type": "drops",
       "extra": [
         "§cRequirements:",

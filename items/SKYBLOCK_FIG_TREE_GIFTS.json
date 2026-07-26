@@ -9,7 +9,6 @@
     "§c§l§ka§r §c§lSPECIAL §c§l§ka"
   ],
   "internalname": "SKYBLOCK_FIG_TREE_GIFTS",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
   "infoType": "WIKI_URL",
@@ -18,7 +17,6 @@
     {
       "name": "§aFig Tree Gift",
       "render": "@neurepo:mobs/fig_tree_gift.json",
-      "panorama": "foraging_2",
       "extra": [
         "§7Tree Gifts are bundles of loot that is rewarded",
         "§7after a tree is fully cut down. ",

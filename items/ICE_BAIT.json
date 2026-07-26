@@ -16,7 +16,6 @@
     "§a§lUNCOMMON BAIT"
   ],
   "internalname": "ICE_BAIT",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Ice II",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",

@@ -14,7 +14,6 @@
     "§9§lRARE TRAVEL SCROLL"
   ],
   "internalname": "FARMING_2_TRAVEL_SCROLL",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Cocoa Beans V",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
   "infoType": "WIKI_URL",

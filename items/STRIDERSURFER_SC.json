@@ -12,7 +12,6 @@
     "§9§lRARE"
   ],
   "internalname": "STRIDERSURFER_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -27,7 +26,6 @@
       "combat_xp": 100,
       "name": "§cStridersurfer",
       "render": "@neurepo:mobs/stridersurfer.json",
-      "panorama": "foraging_2",
       "type": "drops",
       "drops": [
         {
@@ -58,7 +56,6 @@
       "combat_xp": 800,
       "name": "§cStridersurfer (Sea Creature)",
       "render": "@neurepo:mobs/stridersurfer.json",
-      "panorama": "foraging_2",
       "type": "drops",
       "drops": [
         {

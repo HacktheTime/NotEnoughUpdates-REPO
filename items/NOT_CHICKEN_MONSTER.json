@@ -10,7 +10,6 @@
     "§c❤ Health§8: §c3"
   ],
   "internalname": "NOT_CHICKEN_MONSTER",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -32,7 +31,6 @@
         }
       ],
       "render": "Chicken",
-      "panorama": "rift",
       "name": "§2Not Chicken",
       "xp": 0,
       "extra": []

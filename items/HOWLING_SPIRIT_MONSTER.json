@@ -12,7 +12,6 @@
     "§c❤ Health§8: §c7,000"
   ],
   "internalname": "HOWLING_SPIRIT_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -26,7 +25,6 @@
       "xp": 10,
       "combat_xp": 22,
       "name": "§bHowling Spirit",
-      "panorama": "foraging_1",
       "render": "Wolf",
       "type": "drops",
       "drops": [

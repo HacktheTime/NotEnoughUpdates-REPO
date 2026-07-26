@@ -9,7 +9,6 @@
     "§c❤ Health§8: §c700,000"
   ],
   "internalname": "BLAZE_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -23,7 +22,6 @@
       "xp": 50,
       "name": "§fBlaze",
       "type": "drops",
-      "panorama": "crimson_isle",
       "render": "Blaze",
       "extra": [],
       "drops": [
@@ -45,7 +43,6 @@
       "combat_xp": 50,
       "name": "§fBlaze",
       "type": "drops",
-      "panorama": "crimson_isle",
       "render": "Blaze",
       "extra": [],
       "drops": [

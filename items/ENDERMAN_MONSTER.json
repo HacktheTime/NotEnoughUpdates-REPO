@@ -9,7 +9,6 @@
     "§c❤ Health§8: §c160 - 9,000"
   ],
   "internalname": "ENDERMAN_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "combat_xp": 40,
       "name": "§cEnderman",
       "render": "Enderman",
-      "panorama": "combat_3",
       "type": "drops",
       "drops": [
         {
@@ -82,7 +80,6 @@
       "xp": 12,
       "combat_xp": 42,
       "name": "§cEnderman",
-      "panorama": "combat_3",
       "render": "Enderman",
       "type": "drops",
       "drops": [
@@ -141,7 +138,6 @@
       "xp": 12,
       "combat_xp": 44,
       "name": "§cEnderman",
-      "panorama": "combat_3",
       "render": "Enderman",
       "type": "drops",
       "drops": [

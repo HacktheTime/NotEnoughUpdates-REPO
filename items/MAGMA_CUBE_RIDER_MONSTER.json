@@ -10,7 +10,6 @@
     "§c❤ Health§8: §c1,200,000"
   ],
   "internalname": "MAGMA_CUBE_RIDER_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -26,7 +25,6 @@
       "name": "§fMagma Cube Rider",
       "type": "drops",
       "render": "@neurepo:mobs/magma_cube_rider.json",
-      "panorama": "crimson_isle",
       "extra": [],
       "drops": [
         {

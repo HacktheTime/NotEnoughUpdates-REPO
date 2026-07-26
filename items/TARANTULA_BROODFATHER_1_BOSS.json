@@ -14,7 +14,6 @@
     "§7from behind deal §c50% Damage§7."
   ],
   "internalname": "TARANTULA_BROODFATHER_1_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -27,7 +26,6 @@
       "combat_xp": 50,
       "coins": 1,
       "name": "§6Tarantula Broodfather I",
-      "panorama": "combat_1",
       "render": "Spider",
       "type": "drops",
       "drops": [

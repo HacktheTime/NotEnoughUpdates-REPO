@@ -16,7 +16,6 @@
     "§f§lCOMMON LEGGINGS"
   ],
   "internalname": "MUSHROOM_LEGGINGS",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Mushroom III",
   "modver": "Firmament 43.0.0+mc1.21.10",
   "infoType": "WIKI_URL",

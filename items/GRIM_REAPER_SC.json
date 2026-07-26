@@ -10,7 +10,6 @@
     "§d§lMYTHIC"
   ],
   "internalname": "GRIM_REAPER_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "coins": 5000,
       "xp": 150,
       "render": "@neurepo:mobs/grim_reaper.json",
-      "panorama": "hub",
       "type": "drops",
       "extra": [
         "§cRequirements:",

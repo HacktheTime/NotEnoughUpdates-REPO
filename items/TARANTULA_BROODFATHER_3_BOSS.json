@@ -26,7 +26,6 @@
     "§7minions!"
   ],
   "internalname": "TARANTULA_BROODFATHER_3_BOSS",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga97960bc",
   "infoType": "WIKI_URL",
@@ -40,7 +39,6 @@
       "xp": 1,
       "name": "§6Tarantula Broodfather III",
       "render": "Spider",
-      "panorama": "combat_1",
       "type": "drops",
       "drops": [
         {

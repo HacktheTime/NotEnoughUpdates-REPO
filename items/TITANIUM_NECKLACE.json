@@ -22,7 +22,6 @@
     "§9§lRARE NECKLACE"
   ],
   "internalname": "TITANIUM_NECKLACE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: HotM 3",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",

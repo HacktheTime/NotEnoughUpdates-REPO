@@ -15,7 +15,6 @@
   ],
   "internalname": "POTION_STUN;3",
   "crafttext": "",
-  "clickcommand": "viewpotion",
   "modver": "",
   "infoType": ""
 }

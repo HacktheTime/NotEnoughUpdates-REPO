@@ -10,7 +10,6 @@
     "§c❤ Health §8(MM) : §c1,800,000 - 3,300,000"
   ],
   "internalname": "SCARED_SKELETON_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -23,7 +22,6 @@
       "coins": 5,
       "xp": 30,
       "name": "§cScared Skeleton",
-      "panorama": "dungeon",
       "render": "@neurepo:mobs/undead_skeleton.json",
       "type": "drops",
       "drops": [

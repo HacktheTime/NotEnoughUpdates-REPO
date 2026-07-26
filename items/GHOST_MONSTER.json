@@ -13,7 +13,6 @@
     "§7Coins: §60-1,000,000 §8(§dPray RNGeusus§8)"
   ],
   "internalname": "GHOST_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -28,7 +27,6 @@
       "combat_xp": 100,
       "name": "§cGhost",
       "render": "@neurepo:mobs/ghost.json",
-      "panorama": "mining_3",
       "type": "drops",
       "drops": [
         {

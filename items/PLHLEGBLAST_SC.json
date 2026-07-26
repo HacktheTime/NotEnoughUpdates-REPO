@@ -10,7 +10,6 @@
     "§d§lMYTHIC"
   ],
   "internalname": "PLHLEGBLAST_SC",
-  "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "coins": 1000,
       "xp": 300,
       "render": "Squid",
-      "panorama": "crimson_isle",
       "type": "drops",
       "extra": [
         "§cRequirements:",

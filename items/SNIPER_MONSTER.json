@@ -10,7 +10,6 @@
     "§c❤ Health§8: §c13,000 - 36,000,000"
   ],
   "internalname": "SNIPER_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -25,7 +24,6 @@
       "combat_xp": 100,
       "name": "§cSniper",
       "render": "@neurepo:mobs/sniper.json",
-      "panorama": "dungeon",
       "type": "drops",
       "drops": [
         {

@@ -17,7 +17,6 @@
     "§5§lEPIC HELMET"
   ],
   "internalname": "SPONGE_HELMET",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Sponge IX",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
   "infoType": "WIKI_URL",

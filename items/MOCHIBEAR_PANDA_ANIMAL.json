@@ -8,7 +8,6 @@
     "§7They only appear while it is Autumn or Winter."
   ],
   "internalname": "MOCHIBEAR_PANDA_ANIMAL",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "",
@@ -18,7 +17,6 @@
       "level": 1,
       "name": "§aMochibear",
       "render": "Panda",
-      "panorama": "foraging_2",
       "type": "drops",
       "drops": [
         {

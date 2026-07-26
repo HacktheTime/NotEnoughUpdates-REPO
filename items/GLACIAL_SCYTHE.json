@@ -19,7 +19,6 @@
     "§5§lEPIC SWORD"
   ],
   "internalname": "GLACIAL_SCYTHE",
-  "clickcommand": "viewrecipe",
   "crafttext": "Requires: Ice XI",
   "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
   "infoType": "WIKI_URL",

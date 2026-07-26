@@ -9,7 +9,6 @@
     "§c❤ Health§8: §c12,000,000"
   ],
   "internalname": "MILLENIA_AGED_BLAZE_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "combat_xp": 960,
       "name": "§f§4Millennia-Aged Blaze",
       "type": "drops",
-      "panorama": "crimson_isle",
       "render": "Blaze",
       "extra": [],
       "drops": [

@@ -10,7 +10,6 @@
     "§f§lCOMMON"
   ],
   "internalname": "SEA_WALKER_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "coins": 5,
       "xp": 20,
       "render": "@neurepo:mobs/sea_walker.json",
-      "panorama": "hub",
       "type": "drops",
       "extra": [
         "§cRequirements:",

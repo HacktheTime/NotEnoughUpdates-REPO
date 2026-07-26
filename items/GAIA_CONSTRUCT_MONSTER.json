@@ -26,7 +26,6 @@
     "§9§lRARE"
   ],
   "internalname": "GAIA_CONSTRUCT_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -40,7 +39,6 @@
       "xp": 5,
       "combat_xp": 30,
       "name": "§cStalwart Gaia Construct",
-      "panorama": "hub",
       "render": "Eisengolem",
       "extra": [
         "§cRequirements:",
@@ -75,7 +73,6 @@
       "xp": 5,
       "combat_xp": 45,
       "name": "§cVenerable Gaia Construct",
-      "panorama": "hub",
       "render": "Eisengolem",
       "extra": [
         "§cRequirements:",
@@ -108,7 +105,6 @@
       "xp": 5,
       "combat_xp": 75,
       "name": "§cEmpyrean Gaia Construct",
-      "panorama": "hub",
       "render": "Eisengolem",
       "type": "drops",
       "drops": [

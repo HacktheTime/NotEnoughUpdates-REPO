@@ -12,7 +12,6 @@
     "§c❤ Health§8: §c2,000"
   ],
   "internalname": "ENDERMITE_MONSTER",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
   "infoType": "WIKI_URL",
@@ -26,7 +25,6 @@
       "xp": 8,
       "combat_xp": 40,
       "name": "§cEndermite",
-      "panorama": "combat_3",
       "render": "Endermite",
       "type": "drops",
       "drops": [
@@ -49,7 +47,6 @@
       "xp": 12,
       "combat_xp": 40,
       "name": "§cEndermite",
-      "panorama": "combat_3",
       "render": "Endermite",
       "type": "drops",
       "drops": [

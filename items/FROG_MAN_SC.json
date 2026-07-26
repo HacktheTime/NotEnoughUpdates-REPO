@@ -10,7 +10,6 @@
     "§f§lCOMMON"
   ],
   "internalname": "FROG_MAN_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -24,7 +23,6 @@
       "coins": 40,
       "xp": 40,
       "render": "@neurepo:mobs/frog_man.json",
-      "panorama": "fishing_1",
       "type": "drops",
       "extra": [
         "§cRequirements:",

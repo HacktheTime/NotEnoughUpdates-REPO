@@ -14,7 +14,6 @@
     "§f§lCOMMON"
   ],
   "internalname": "SEA_GUARDIAN_SC",
-  "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
   "infoType": "WIKI_URL",
@@ -28,7 +27,6 @@
       "coins": 10,
       "xp": 30,
       "render": "Guardian",
-      "panorama": "hub",
       "type": "drops",
       "extra": [
         "§cRequirements:",

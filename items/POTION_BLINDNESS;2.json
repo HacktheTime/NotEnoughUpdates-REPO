@@ -13,7 +13,6 @@
   ],
   "internalname": "POTION_BLINDNESS;2",
   "crafttext": "",
-  "clickcommand": "viewpotion",
   "modver": "",
   "infoType": ""
 }
