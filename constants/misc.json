@@ -46,6 +46,29 @@
     50000,
     100000
   ],
+  "area_names": {
+    "dynamic": "Private Island",
+    "hub": "Hub",
+    "mining_1": "Gold Mine",
+    "mining_2": "Deep Caverns",
+    "mining_3": "Dwarven Mines",
+    "combat_1": "Spider's Den",
+    "crimson_isle": "Crimson Isle",
+    "combat_3": "The End",
+    "farming_1": "The Farming Islands",
+    "foraging_1": "The Park",
+    "winter": "Jerry's Workshop",
+    "dungeon": "Dungeon",
+    "dungeon_hub": "Dungeon Hub",
+    "crystal_hollows": "Crystal Hollows",
+    "kuudra": "Kuudra's Hollow",
+    "garden": "The Garden",
+    "rift": "Rift",
+    "mineshaft": "Glacite Mineshafts",
+    "fishing_1": "Backwater Bayou",
+    "foraging_2": "Galatea",
+    "lotus_atoll": "Lotus Atoll"
+  },
   "talisman_upgrades": {
     "BLOOD_GOD_CREST": [
       "BLOOD_GOD_SIGIL"
@@ -3260,6 +3283,34 @@
     "EMPEROR_RING": [
       "EMPEROR_ARTIFACT"
     ],
+    "ACCRETION_TALISMAN": [
+      "ACCRETION_RING",
+      "ACCRETION_ARTIFACT"
+    ],
+    "ACCRETION_RING": [
+      "ACCRETION_ARTIFACT"
+    ],
+    "TORRHUS_TALISMAN": [
+      "TORRHUS_RING",
+      "TORRHUS_ARTIFACT"
+    ],
+    "TORRHUS_RING": [
+      "TORRHUS_ARTIFACT"
+    ],
+    "HONEYCOMB_TALISMAN": [
+      "HONEYCOMB_RING",
+      "HONEYCOMB_ARTIFACT"
+    ],
+    "HONEYCOMB_RING": [
+      "HONEYCOMB_ARTIFACT"
+    ],
+    "LUMBERJACK_TALISMAN": [
+      "LUMBERJACK_RING",
+      "LUMBERJACK_ARTIFACT"
+    ],
+    "LUMBERJACK_RING": [
+      "LUMBERJACK_ARTIFACT"
+    ],
     "SOUL_CAMPFIRE_TALISMAN_1": [
       "SOUL_CAMPFIRE_TALISMAN_2",
       "SOUL_CAMPFIRE_TALISMAN_3",
@@ -4901,8 +4952,8 @@
     }
   },
   "minions": {
-    "ACACIA_GENERATOR": 11,
-    "BIRCH_GENERATOR": 11,
+    "ACACIA_GENERATOR": 12,
+    "BIRCH_GENERATOR": 12,
     "BLAZE_GENERATOR": 12,
     "CACTUS_GENERATOR": 12,
     "CARROT_GENERATOR": 12,
@@ -4914,7 +4965,7 @@
     "COCOA_GENERATOR": 12,
     "COW_GENERATOR": 12,
     "CREEPER_GENERATOR": 11,
-    "DARK_OAK_GENERATOR": 11,
+    "DARK_OAK_GENERATOR": 12,
     "DIAMOND_GENERATOR": 12,
     "EMERALD_GENERATOR": 12,
     "ENDER_STONE_GENERATOR": 11,
@@ -4927,7 +4978,7 @@
     "GRAVEL_GENERATOR": 11,
     "ICE_GENERATOR": 12,
     "IRON_GENERATOR": 12,
-    "JUNGLE_GENERATOR": 11,
+    "JUNGLE_GENERATOR": 12,
     "LAPIS_GENERATOR": 12,
     "LILY_PAD_GENERATOR": 12,
     "MAGMA_CUBE_GENERATOR": 12,
@@ -4935,7 +4986,7 @@
     "MITHRIL_GENERATOR": 12,
     "MUSHROOM_GENERATOR": 12,
     "NETHER_WARTS_GENERATOR": 12,
-    "OAK_GENERATOR": 11,
+    "OAK_GENERATOR": 12,
     "OBSIDIAN_GENERATOR": 12,
     "PIG_GENERATOR": 12,
     "POTATO_GENERATOR": 12,
@@ -4950,7 +5001,7 @@
     "SLIME_GENERATOR": 11,
     "SNOW_GENERATOR": 12,
     "SPIDER_GENERATOR": 11,
-    "SPRUCE_GENERATOR": 11,
+    "SPRUCE_GENERATOR": 12,
     "SUGAR_CANE_GENERATOR": 12,
     "TARANTULA_GENERATOR": 12,
     "VOIDLING_GENERATOR": 11,
