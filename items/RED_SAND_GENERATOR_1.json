@@ -35,6 +35,5 @@
     "C2": "SAND-1:10",
     "C3": "SAND-1:10"
   },
-  "reputation_req": "BARBARIAN:500",
-  "useneucraft": true
+  "reputation_req": "BARBARIAN:500"
 }

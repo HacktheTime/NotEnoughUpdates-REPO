@@ -79,6 +79,9 @@ class WikiLinkUpdater:
         if "FACTION_RABBIT" in file.data["internalname"]:
             return False
 
+        if file.data["internalname"].startswith("ULTIMATE_WISDOM;"):
+            return False
+
         existingInfo = file.data.get("info", [])
         validLinks = [
             link for link in existingInfo if link.startswith(urlPrefix)
@@ -239,7 +242,8 @@ class WikiLinkUpdater:
 
     @staticmethod
     def capitalizeWords(string: str) -> str:
-        return "".join(word.capitalize() for word in re.split(r"([ _-])", string) if word not in ["of", "the", "to"])
+        dontCapitalize = ["of", "the", "to"]
+        return "".join(word if word in dontCapitalize else word.capitalize() for word in re.split(r"([ _-])", string))
 
     @staticmethod
     def getUrl(page: str | None) -> str | None:

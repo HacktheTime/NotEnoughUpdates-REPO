@@ -5032,5 +5032,43 @@
     "INFERNO_GENERATOR": 11,
     "VAMPIRE_GENERATOR": 11,
     "SUNFLOWER_GENERATOR": 12
+  },
+  "credits": {
+    "itemid": "writable_book",
+    "internalname": "CREDITS",
+    "displayname": "§9Credits",
+    "lore": [
+      "§a§lContributors:",
+      "§7Founder: §aMoulberry§7",
+      "§7Maintainer:",
+      "§7 - §anopo§7, §ajani270§7, §anea89§7,",
+      "§7 - §aIRONM00N§7, §aLulonaut",
+      "§7Feature Contributor:",
+      "§7 - §aDeDiamondPro§7, §aDoKM§7, §aSoopyboo32§7,",
+      "§7 - §aThatGravyBoat§7, §aCraftyOldMiner§7, §awhalker§7,",
+      "§7 - §aCarelessHippo§7, §aVixid§7, §aCalMWolfs§7,",
+      "§7 - §aAscynx§7, §aCrypticPlasma§7, §aCobble8§7,",
+      "§7 - §aefefury§7, §ahannibal2§7, §aCrypticPlasma§7,",
+      "§7 - §aAscynx§7, §agodofpro§7, §aKingsRabbit§7,",
+      "§7 - §aLightning§7",
+      "§7Item-repo Contributor:",
+      "§7 - §aMisterCheezeCake§7, §aSwedengamer100§7, §alucy§7",
+      "§7 - §aTymanWasTaken§7, §aapotato321§7, §aSome1sm§7",
+      "§7Asset Contributor:",
+      "§7 - §aMotorGorilla1§7, §aErymanthus§7",
+      "§7Moral Support: §aNullzee§7",
+      "",
+      "§b§lDiscord Staff:",
+      "§cAdmins:",
+      "§7 - §bjani270§7, §bnopothegamer§7",
+      "§7 - §bthatgravyboat§7, §bironm00n§7",
+      "§2Sr. Moderators",
+      "§7 - §bt.y.y§7, §bdemon.core§7",
+      "§2Moderators:",
+      "§7 - §blulonaut§7, §bdokm§7, §bgeorgefw§7",
+      "§7 - §bhasnu777§7, §bbestower§7 §bapotato1§7",
+      "§aHelpers:",
+      "§7 - §bmistercheezecake§7, §bseraid"
+    ]
   }
 }

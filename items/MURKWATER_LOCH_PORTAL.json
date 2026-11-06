@@ -17,6 +17,8 @@
   "internalname": "MURKWATER_LOCH_PORTAL",
   "crafttext": "",
   "modver": "Firmament 3.1.0-dev+mc1.21.5+g4907900",
-  "infoType": "",
-  "info": []
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Murkwater_Loch"
+  ]
 }
